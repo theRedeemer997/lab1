@@ -1,0 +1,947 @@
+title,author,price,avg_reviews
+Becoming a Data Head: How to Think Speak and Understand Data Science Statistics and Machine Learning,"[Alex J. Gutman,Jordan Goldmeier]",24.49,4.6
+Ace the Data Science Interview: 201 Real Interview Questions Asked FAANG Tech Startups & Wall Street,"[Nick Singh,Kevin Huo]",26,4.5
+Fundamentals of Data Engineering: Plan and Build Robust Data Systems,"[Joe Reis,Matt Housley]",50.76,5
+Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra Probability and Statistics,[Thomas Nield],44.8,4.5
+Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking,"[Foster Provost,Tom Fawcett]",36.99,4.5
+Data Science from Scratch: First Principles with Python,[Joel Grus],45.22,4.4
+Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python,"[Peter Bruce,Andrew Bruce et al.]",24.88,4.6
+Python for Data Science: A Hands-On Introduction,[Yuli Vasiliev],28.49,4.3
+Practical Linear Algebra for Data Science: From Core Concepts to Applications Using Python,[Mike Cohen],69.99,
+Data Science (The MIT Press Essential Knowledge series),,9.61,4.5
+Data Science For Dummies (For Dummies (Computer/Tech)),[Lillian Pierson],25.49,4.6
+Azure Data Engineer Associate Certification Guide: A hands-on reference guide to developing your data engineering skills and preparing for the DP-203 exam,[Newton Alex],49.99,4.1
+Data Pipelines with Apache Airflow,"[Bas P. Harenslak,Julian Rutger de Ruiter]",47.62,4.7
+Practical Data Science with Python: Learn tools and techniques from hands-on examples to extract insights from data,[Nathan George],51.99,4.7
+Data Science on AWS: Implementing End-to-End Continuous AI and Machine Learning Pipelines,"[Chris Fregly,Antje Barth]",31.99,4.4
+Data Analysis for Business Economics and Policy,,61.74,4.4
+Machine Learning Design Interview: Machine Learning System Design Interview,[Khang Pham],34.15,3.6
+Hands-On Data Analysis with Pandas: A Python data science handbook for data collection wrangling analysis and visualization 2nd Edition,"[Stefanie Molin,Ken Jee]",35.67,4.3
+Business Data Science: Combining Machine Learning and Economics to Optimize Automate and Accelerate Business Decisions,[Matt Taddy],33.43,4.5
+The Art of Statistics: How to Learn from Data,[David Spiegelhalter],17.99,4.6
+Cleaning Data for Effective Data Science: Doing the other 80% of the work with Python R and command-line tools,[David Mertz],39.99,4.8
+Everything Data Analytics-A Beginners Guide to Data Literacy: Understanding the Processes That Turn Data Into Insights (Guides for Data Analytics Data Visualization and Communicating Data),,14.49,4.2
+Effective Data Science Infrastructure: How to make data scientists productive,[Ville Tuulos],49.99,5
+Python Data Science Handbook: Essential Tools for Working with Data,[Jake VanderPlas],66.49,
+The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science,[Alex Gorelik],40.1,4.3
+Data-Driven Science and Engineering: Machine Learning Dynamical Systems and Control,"[Steven L. Brunton,J. Nathan Kutz]",58.49,4.6
+Hands-On Data Science for Marketing: Improve your marketing strategies with machine learning using Python and R,[Yoon Hyup Hwang],44.99,4.3
+Be Data Driven: How Organizations Can Harness the Power of Data,[Jordan Morrow],34.99,5
+Data Science Projects with Python: A case study approach to gaining valuable insights from real data with machine learning 2nd Edition,[Stephen Klosterman],36.99,4.6
+The Kaggle Book: Data analysis and machine learning for competitive data science,"[Konrad Banachewicz,Luca Massaron et al.]",39.94,4.6
+Think Like a Data Scientist: Tackle the data science process step--step,[Brian Godsey],29.59,4.5
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable Scalable and Maintainable Systems,[Martin Kleppmann],23.37,4.8
+Data Smart: Using Data Science to Transform Information into Insight,[John W. Foreman],21.1,4.5
+Python for Data Analysis: Data Wrangling with pandas NumPy and Jupyter,[Wes McKinney],62.99,5
+Modern Data Science with R (Chapman & Hall/CRC Texts in Statistical Science),,72.59,3.9
+Machine Learning: 4 Books in 1: The #1 Beginners Guide to Master the Basics of Python Programming Learn the Art of Data Science and Build Artificial Intelligence,[Andrew Park],25.97,4.6
+Building Big Data Pipelines with Apache Beam: Use a single programming model for both batch and stream data processing,[Jan Lukavsky],46.99,3.9
+Algorithmic Finance: A Companion To Data Science,[Christopher Hian-ann Ting],116.85,
+Naked Statistics: Stripping the Dread from the Data,,11.69,4.6
+Bayesian Ideas and Data Analysis: An Introduction for Scientists and Statisticians (Chapman & Hall/CRC Texts in Statistical Science),,64.1,4
+Julia Data Science,"[Jose Storopoli,Rik Huijzer et al.]",31.99,4.5
+Listening to People: A Practical Guide to Interviewing Participant Observation Data Analysis and Writing It All Up (Chicago Guides to Writing Editing and Publishing),,19,4.5
+Doing Data Science: Straight Talk from the Frontline,"[""Cathy ONeil"",Rachel Schutt]",26.3,4.3
+Microsoft Power BI Quick Start Guide: Bring your data to life through data modeling visualization digital storytelling and more 2nd Edition,"[Devin Knight,Mitchell Pearson et al.]",28.49,4.3
+R in Action Third Edition: Data analysis and graphics with R and Tidyverse,[Robert I. Kabacoff],56.99,4.6
+Data Science Ethics: Concepts Techniques and Cautionary Tales,[David Martens],37.2,5
+Data Science and Machine Learning: Mathematical and Statistical Methods (Chapman & Hall/CRC Machine Learning & Pattern Recognition),,77.43,4.8
+Data Mesh in Action,"[Jacek Majchrzak,Sven Balnojan et al.]",69.99,
+The Machine Learning Solutions Architect Handbook: Create machine learning platforms to run solutions in an enterprise setting,[David Ping],43.97,4.7
+Practical Big Data Analytics: Hands-on techniques to implement enterprise analytics and machine learning using Hadoop Spark NoSQL and R,[Nataraj Dasgupta],44.99,3.8
+Simplify Big Data Analytics with Amazon EMR: A beginners guide to learning and implementing Amazon EMR for building data analytics solutions,[Sakti Mishra],46.99,5
+Bootstrap:Data Science Workbook,"[Emmanuel Schanzer,Kathi Fisler et al.]",4.73,
+Amazon Redshift Cookbook: Recipes for building modern data warehousing solutions,"[Shruti Worlikar,Thiyagarajan Arumugam et al.]",51.99,4.5
+SQL for Data Analytics: Harness the power of SQL to extract insights from data 3rd Edition,"[Jun Shan,Matt Goldwasser et al.]",44.99,5
+Communicating with Data: Making Your Case With Data,[Carl Allchin],40.99,5
+Data Analytics: A Small Data Approach (Chapman & Hall/CRC Data Science Series),,89.95,5
+Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples,[Jeremy Kubica],29.99,
+Data Analysis with R - Second Edition: A comprehensive guide to manipulating analyzing and visualizing data in R,[Tony Fischetti],38.82,4.4
+Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS,[Gareth Eagar],39.99,4.4
+Data Science: Advanced Guide to Learn the Realms of Data Science Effectively,[Benjamin Smith],19.99,
+Data Science for Supply Chain Forecasting,[Nicolas Vandeput],49.39,4.6
+Heard In Data Science Interviews: Over 650 Most Commonly Asked Interview Questions & Answers,[Kal Mishra],37.99,3.2
+DATA ANALYTICS: A Comprehensive Beginnerâ€™s Guide To Learn About The Realms Of Data Analytics From A-Z,[Mr Benjamin Smith],19.99,4.2
+Introduction to Data Science: Data Analysis and Prediction Algorithms with R (Chapman & Hall/CRC Data Science Series),,77.28,4.8
+Introduction to Machine Learning with R: Rigorous Mathematical Analysis,[Scott V. Burger],49.99,4.1
+PYTHON FOR DATA SCIENCE: The Ultimate Beginnersâ€™ Guide to Learning Python Data Science Step Step,[Mr Ethan Williams],19.99,4.3
+97 Things About Ethics Everyone in Data Science Should Know: Collective Wisdom from the Experts,[Bill Franks],30.99,4.1
+Data Science for Marketing Analytics: A practical guide to forming a killer marketing strategy through data analysis with Python 2nd Edition,"[Mirza Rahim Baig,Gururajan Govindan et al.]",36.99,4.6
+Video Data Analysis: How to Use 21st Century Video in the Social Sciences,"[Anne Nassauer,Nicolas M. Legewie]",45,5
+The Beginners Guide to Data Science,"[Robert Ball,Brian Rague]",69.99,
+Hands-On Data Science with R: Techniques to perform data manipulation and mining to build smart analytical models using R,"[Vitor Bianchi Lanzetta,Nataraj Dasgupta et al.]",39.99,4.1
+The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists,"[Carl Shan,William Chen et al.]",24.99,4.4
+Machine Learning and Data Science Blueprints for Finance: From Building Trading Strategies to Robo-Advisors Using Python,"[Hariom Tatsat,Sahil Puri et al.]",44.49,4.3
+Practical Python Data Wrangling and Data Quality: Getting Started with Reading Cleaning and Analyzing Data,[Susan McGregor],31.99,3.5
+Cracking the Data Science Interview: 101+ Data Science Questions & Solutions,[Maverick Lin],11.99,3.7
+SQL for Data Scientists: A Beginners Guide for Building Datasets for Analysis,[Renee M. P. Teate],32.49,4.7
+MLOps Engineering at Scale,[Carl Osipov],44.49,4.2
+The Data Science Design Manual (Texts in Computer Science),,52.05,4.8
+Big Data: A Very Short Introduction (Very Short Introductions),[Dawn E. Holmes],11.07,4.4
+SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights,[Cathy Tanimura],40.49,4.7
+The Cyberwarrior Handbook: A Beginners Guide to Hacking from Recon to Exploitation,[OccupyTheWeb],49.99,
+Comet for Data Science: Enhance your ability to manage and optimize the life cycle of your data science project,"[Angelica Lo Duca,Gideon Mendels]",44.99,5
+Optimization for Data Analysis,"[Stephen J. Wright,Benjamin Recht]",38.91,5
+The Self-Taught Computer Scientist: The Beginners Guide to Data Structures & Algorithms,[Cory Althoff],19.49,4.5
+Quantitative Social Science: An Introduction in tidyverse,"[Kosuke Imai,Nora Webb Williams]",49.99,3.8
+Data Science Interview: Prep for SQL Panda Python R Language Machine Learning DBMS and RDBMS â€“ And More â€“ The Full Data Scientist Interview Handbook,[DSI ACE PREP],24.99,4.7
+The Data Vault Guru: a pragmatic guide on building a data vault,[Mr Patrick Cuba],76.96,4.1
+Responsible Data Science,"[Grant Fleming,Peter C. Bruce]",19.86,3.8
+Fundamentals of Data Science with MATLAB: Introduction to Scientific Computing Data Analysis and Data Visualization,[Arash Karimpour],26,4.5
+Python for Data Science: Clear and Complete Guide to Data Science and Analysis with Python,[Alex Campbell],14.95,3.9
+Learn Power BI: A comprehensive step--step guide for beginners to learn real-world business intelligence 2nd Edition,[Greg Deckler],44.64,4.4
+Data Visualization with Excel Dashboards and Reports,[Dick Kusleika],22.99,4.4
+Data Science For Dummies 2nd Edition,"[Lillian Pierson,Jake Porway]",41.02,4.4
+Hands-On Data Structures and Algorithms with Python: Store manipulate and access data effectively and boost the performance of your applications 3rd Edition,[Dr. Basant Agarwal],44.99,4.6
+Business Intelligence Analytics and Data Science: A Managerial Perspective,"[Ramesh Sharda,Dursun Delen et al.]",106.66,4.5
+Guide to Data Science: Brief Introduction to the Quirky World of Data,[Aryan Goyal],14.99,5
+Machine Learning for Time Series Forecasting with Python,[Francesca Lazzeri],32.49,3.9
+Introduction to Computation: Haskell Logic and Automata (Undergraduate Topics in Computer Science),,33.9,5
+Data Science: Concepts and Practice,"[Vijay Kotu,Bala Deshpande]",69.34,4.5
+Inferential Network Analysis (Analytical Methods for Social Research),,54.81,4.7
+Data Science In The Library: Tools and Strategies for Supporting Data-Driven Research and Instruction,[Joel Herndon],80.31,
+Foundational Python for Data Science (Addison-Wesley Data & Analytics Series),,39.99,4.3
+Integrating Data,"[Bill Inmon,Patty Haines et al.]",39.95,5
+Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools,[Vince Buffalo],45.77,4.6
+Python Crash Course 2nd Edition: A Hands-On Project-Based Introduction to Programming,[Eric Matthes],21.49,4.7
+The Esri Guide to GIS Analysis Volume 3: Modeling Suitability Movement and Interaction (The ESRI Guide to GIS Analysis 3),[Andy Mitchell],33.93,4.4
+The Applied SQL Data Analytics Workshop: Develop your practical skills and prepare to become a professional data analyst 2nd Edition,"[Matt Goldwasser,Upom Malik et al.]",34.99,4.6
+Data Mesh: Delivering Data-Driven Value at Scale,[Zhamak Dehghani],51.89,4.5
+End-to-End Data Science with SASÂ®: A Hands-On Programming Guide,[James Gearheart],39.95,4.5
+An Introduction to Data Science,"[Jeffrey S. Saltz,Jeffrey M. Stanton]",44.86,4.4
+Probabilistic Machine Learning: An Introduction (Adaptive Computation and Machine Learning series),,99,4.4
+Computer Science Unleashed: Harness the Power of Computational Systems,,29.95,4.9
+R Statistics Cookbook: Over 100 recipes for performing complex statistical operations with R 3.5,[Francisco Juretig],24.99,4.6
+Introduction to Statistics: An Intuitive Guide for Analyzing Data and Unlocking Discoveries,[Jim Frost],18.91,4.5
+Algorithms and Data Structures for Massive Datasets,"[Dzejla Medjedovic,Emin Tahirovic et al.]",59.99,3.8
+Data Science (Chapman & Hall/CRC Data Science Series),"[Tiffany Timbers,Trevor Campbell et al.]",59.95,
+Data Democratization with Domo: Bring together every component of your business to make better data-driven decisions using Domo,[Jeff Burtenshaw],49.99,4.8
+Determannâ€™s Field Guide to Data Privacy Law: International Corporate Compliance (Elgar Compliance Guides),[Lothar Determann],73.08,
+Data Visualization with Python for Beginners: Visualize Your Data using Pandas Matplotlib and Seaborn (Machine Learning & Data Science for Beginners),,19.99,4.1
+Practical Synthetic Data Generation: Balancing Privacy and the Broad Availability of Data,"[Khaled El Emam,Lucy Mosquera et al.]",28.49,4.1
+Data Analysis in Sports Science,"[Gabriel J. Sanders PhD,Corey A. Peacock PhD]",59.99,4.7
+Python for Geospatial Data Analysis: Theory Tools and Practice for Location Intelligence,[Bonny McClain],66.49,
+Data Science for Librarians (Library and Information Science Text Series),,65,5
+Basketball Data Science: With Applications in R (Chapman & Hall/CRC Data Science Series),,43.35,4.1
+Data Analytics for Absolute Beginners: A Deconstructed Guide to Data Literacy: (Introduction to Data Data Visualization Business Intelligence & ... Science Python & Statistics for Beginners),,14.9,4.4
+Bayesian Data Analysis (Chapman & Hall/CRC Texts in Statistical Science),,78.22,4.7
+Murachs Python for Data Analysis (Training & Reference),[Scott Mccoy],58.33,4.6
+Cracking the Coding Interview: 189 Programming Questions and Solutions,[Gayle Laakmann McDowell],35.95,4.7
+Docker for Data Science: Building Scalable and Extensible Data Infrastructure Around the Jupyter Notebook Server,[Joshua Cook],49.49,3.7
+Mastering PostgreSQL 13: Build administer and maintain database applications efficiently with PostgreSQL 13 4th Edition,[Hans-Jurgen Schonig],41.99,4.2
+Data Analysis with Python and PySpark,[Jonathan Rioux],48,4.8
+PYTHON: Learn Coding Programs with Python Programming and Master Data Analysis & Analytics Data Science and Machine Learning with the Complete Crash Course for Beginners - 5 Manuscripts in 1 Book,[TechExp Academy],24.9,4.2
+DATA SCIENCE WITH PYTHON: Complete Guide To Understanding Data Analytics And Data Science With Python Programming (Code tutorials),[Craig Berg],9.98,
+Data Analytics: Practical Guide to Leveraging the Power of Algorithms Data Science Data Mining Statistics Big Data and Predictive Analysis to Improve Business Work and Life,[Arthur Zhang],11.97,3.7
+Introduction to Machine Learning,[Etienne Bernard],29.6,4.4
+Hands-On Data Structures and Algorithms with Kotlin: Level up your programming skills understanding how Kotlins data structure works,"[Chandra Sekhar Nayak,Rivu Chakraborty]",36.99,3.6
+Asking Smarter Questions: How To Be an Agent of Insight (Using Data Better),[Sam Knowles],39.95,
+Scalable Data Analytics with Azure Data Explorer: Modern ways to query analyze and perform real-time data analysis on large volumes of data,"[Jason Myerscough,Arunee Singhchawla]",51.99,5
+The Political Philosophy of AI: An Introduction,[Mark Coeckelbergh],19.59,3.7
+Transformers for Machine Learning: A Deep Dive (Chapman & Hall/CRC Machine Learning & Pattern Recognition),"[Uday Kamath,Kenneth Graham et al.]",54.95,3.9
+Predictive Analytics: Data Mining Machine Learning and Data Science for Practitioners (Pearson Business Analytics Series),[Dursun Delen],47.49,4.1
+Pre-K-12 Guidelines for Assessment and Instruction in Statistics Education II (GAISE II): A Framework for Statistics and Data Science Education,"[Anna Bargagliotti,Christine Franklin et al.]",15,5
+Confident Data Skills: How to Work with Data and Futureproof Your Career (Confident Series),,14.64,4.7
+Learning Tableau 2022,"[Joshua N. Milligan,Blair Hutchinson et al.]",55.09,5
+The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling 3rd Edition,,40.16,4.7
+Data Science in Education Using R,"[Ryan A. Estrellado,Jesse Mostipak et al.]",48.95,4.6
+Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Use R!),,84.99,4.3
+Statistics for Beginners in Data Science: Theory and Applications of Essential Statistics Concepts using Python (Machine Learning & Data Science for Beginners),,17.99,4.3
+Detecting Regime Change in Computational Finance: Data Science Machine Learning and Algorithmic Trading,"[Jun Chen,Edward P K Tsang]",54.95,
+Massive Graph Analytics (Chapman & Hall/CRC Data Science Series),,150,
+Practical Data Science with R,"[Nina Zumel,John Mount]",35.74,4.5
+Neo4j Graph Data Science Certified: Exam Practice Tests,[Cristian Scutaru],14.99,4.5
+Grokking Machine Learning,[Luis Serrano],47.99,4.6
+Data Science for Immunologists,"[Niclas Thomas,Laura Pallett]",28.06,4.7
+Data Science Analytics and Machine Learning with R,"[Luiz Paulo Favero,Patricia Belfiore et al.]",150,
+The TensorFlow Workshop: A hands-on guide to building deep learning models from scratch using real-world datasets,"[Matthew Moocarme,Anthony So et al.]",41.99,4.3
+Data Action: Using Data for Public Good,[Sarah Williams],33.69,4.7
+Data Governance For Dummies,[Jonathan Reichental],34.99,
+A Criminologists Guide to R: Crime the Numbers (Chapman & Hall/CRC The R Series),[Jacob Kaplan],79.96,
+Marketing Analytics: A Practical Guide to Improving Consumer Insights Using Data Techniques,[Mike Grigs],35.99,4.4
+Applied Data Science: Lessons Learned for the Data-Driven Business,"[Martin Braschler,Thilo Stadelmann et al.]",179.99,1
+The Pandas Workshop: A comprehensive guide to using Python for data analysis with real-world case studies,"[Blaine Bateman,Saikat Basak et al.]",47.49,4.6
+Data Modeling for Azure Data Services: Implement professional data design and structures in Azure,[Peter ter Braake],51.99,4.6
+SQL for Data Analytics: Perform fast and efficient data analysis with the power of SQL,"[Upom Malik,Matt Goldwasser et al.]",27.89,4.4
+Ethics of Data and Analytics: Concepts and Cases,[Kirsten Martin],69.95,
+Introduction to Computation and Programming Using Python: With Application to Understanding Data (The MIT Press),[John V. Guttag],42.75,4.6
+SQL: 3 books 1 - The Ultimate Beginner Intermediate & Expert Guides To Master SQL Programming Quickly with Practical Exercises,[Mark Reed],24.29,4.9
+Machine Learning Bookcamp: Build a portfolio of real-life projects,[Alexey Grigorev],35.99,5
+The Data Model Resource Book Vol. 2: A Library of Data Models for Specific Industries,"[Len Silverston,John A. Zachman]",61.82,4
+Essential PySpark for Scalable Data Analytics: A beginners guide to harnessing the power and ease of PySpark 3,[Sreeram Nudurupati],46.99,4.5
+Cloud Scale Analytics with Azure Data Services: Build modern data warehouses on Microsoft Azure,[Patrik Borosch],54.99,4.8
+Can We Trust AI? (Johns Hopkins Wavelengths),"[Rama Chellappa,Eric Niiler]",16.95,
+Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,[Paul Crickard],37.79,4.2
+Mastering Tableau 2021: Implement advanced business intelligence techniques and analytics with Tableau 3rd Edition,"[Marleen Meier,David Baldwin et al.]",46.99,4.4
+Geographical Data Science and Spatial Data Analysis: An Introduction in R (Spatial Analytics and GIS),,51,4.5
+Malware Data Science: Attack Detection and Attribution,"[Joshua Saxe,Hillary Sanders]",37.03,4.6
+Learning Geospatial Analysis with Python: Understand GIS fundamentals and perform remote sensing data analysis using Python 3.7 3rd Edition,[Joel Lawhead],49.99,4.4
+The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios,"[Steve Wexler,Jeffrey Shaffer et al.]",24.49,4.6
+Machine Learning with R: Expert techniques for predictive modeling 3rd Edition,[Brett Lantz],37.99,4.6
+Hands-on Programmatic In-house Digital Advertising: Learn Data Design AI Implementation Bidding Strategies and Strategic Thinking (English Edition),[Raghavendra Agarwala],29.95,3.5
+Ontology-Based Information Retrieval for Healthcare Systems,[Vishal Jain],197.02,
+Data Governance: How to Design Deploy and Sustain an Effective Data Governance Program (The Morgan Kaufmann Series on Business Intelligence),,39.17,4.3
+Data Science in Context: Foundations Challenges Opportunities,"[Alfred Z. Spector,Peter Norvig et al.]",39.99,
+Python Machine Learning: Machine Learning and Deep Learning with Python scikit-learn and TensorFlow 2 3rd Edition,"[Sebastian Raschka,Vahid Mirjalili]",49.39,4.5
+Machine Learning in Biotechnology and Life Sciences: Build machine learning models using Python and deploy them on the cloud,[Saleh Alkhalifa],49.99,4.1
+Data Science and Big Data Analytics: Discovering Analyzing Visualizing and Presenting Data,[EMC Education Services],41.76,4.4
+Fundamentals of Data Science Part I: Inference and Experiment,[Jared M Maruskin],22.63,5
+Graph Neural Networks: Foundations Frontiers and Applications,"[Lingfei Wu,Peng Cui et al.]",85.38,4.6
+Data-Driven Evolutionary Optimization: Integrating Evolutionary Computation Machine Learning and Data Science (Studies in Computational Intelligence 975),,169.99,5
+Getting Started with Elastic Stack 8.0: Run powerful and scalable data platforms to search observe and secure your organization,"[Asjad Athick,Shay Banon]",49.99,4.7
+Functional Aesthetics for Data Visualization,"[Vidya Setlur,Bridget Cogley]",40,
+R Programming for Data Science,[Roger Peng],25,4.2
+Building Data Science Solutions with Anaconda: A comprehensive starter guide to building robust and complete models,"[Dan Meador,Kevin Goldsmith]",44.99,5
+Data Lakehouse in Action: Architecting a modern and scalable data analytics platform,[Pradeep Menon],39.99,4.3
+Fundamentals of Data Science Part III: Machine Learning,[Jared M Maruskin],29.95,
+Machine Learning and Big Data Analytics Paradigms: Analysis Applications and Challenges (Studies in Big Data 77),,13.32,
+Data Analysis in Qualitative Research: Theorizing with Abductive Analysis,"[Stefan Timmermans,Iddo Tavory]",20,4.4
+Mastering TensorFlow 2.x: Implement Powerful Neural Nets across Structured Unstructured datasets and Time Series Data (English Edition),[Rajdeep Dua],29.95,5
+The Tableau Workshop: A practical guide to the art of data visualization with Tableau,"[Sumit Gupta,Sylvester Pinto et al.]",46.99,4.8
+HBR Guide to Data Analytics Basics for Managers (HBR Guide Series),,14.19,4.5
+The Hundred-Page Machine Learning Book,[Andriy Burkov],31.99,4.6
+Oracle Database Administration Interview Questions Youll Most Likely Be Asked: Interview Questions Youll Most Likely Be Asked (Job Interview Questions Series),[Vibrant Publishers],23.99,4.2
+Hypothesis Testing: An Intuitive Guide for Making Data Driven Decisions,[Jim Frost],23.74,4.6
+Game Data Science,"[Magy Seif El-Nasr,Truong-Huy D. Nguyen et al.]",73.09,5
+The Data Model Resource Book Vol. 3: Universal Patterns for Data Modeling,"[Len Silverston,Paul Agnew]",51.31,4.4
+Supervised Machine Learning for Text Analysis in R (Chapman & Hall/CRC Data Science Series),,46.02,4.5
+Combining DataOps MLOps and DevOps: Outperform Analytics and Software Development with Expert Practices on Process Optimization and Automation (English Edition),"[Dr. Kalpesh Parikh,Amit Johri]",29.95,3
+Categorical Data Analysis for the Behavioral and Social Sciences,"[Razia Azen,Cindy M. Walker]",87.94,
+Big Data and Artificial Intelligence: Complete Guide to Data Science AI Big Data and Machine Learning.,[Hans Weber],24.95,4.1
+Hands-On Healthcare Data: Taming the Complexity of Real-World Data,[Andrew Nguyen],75.99,
+Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data and extract key insights,[Michael Walker],37.13,4.8
+DATA SCIENCE: Simple and Effective Tips and Tricks to Learn Data Science,[Benjamin Smith],15.39,3.9
+Natural Language Processing with Transformers: Building Language Applications with Hugging Face,"[Lewis Tunstall,Leandro von Werra et al.]",43.09,4.6
+Data Mining for Business Analytics: Concepts Techniques and Applications in Python,"[Galit Shmueli,Peter C. Bruce et al.]",108.99,4.5
+Quantitative Social Science Data with R: An Introduction,[Brian J Fogarty],51,4.9
+Mathematics for Machine Learning,,46.54,4.7
+Machine Learning for Time-Series with Python: Forecast predict and detect anomalies with state-of-the-art machine learning methods,[Ben Auffarth],49.39,4
+Statistics for Health Data Science: An Organic Approach (Springer Texts in Statistics),,76.54,4.6
+Python for Data Analysis: Data Wrangling with Pandas NumPy and IPython,[William McKinney],53.99,4.6
+Python Data Analysis: Perform data collection data processing wrangling visualization and model building using Python 3rd Edition,"[Avinash Navlani,Armando Fandango et al.]",34.99,4.7
+R Cookbook: Proven Recipes for Data Analysis Statistics and Graphics,"[JD Long,Paul Teetor]",52.39,4.5
+Microsoft Excel Data Analysis and Business Modeling (Office 2021 and Microsoft 365) (Business Skills),[Wayne Winston],40.99,4.6
+Data Analysis for Social Science: A Friendly and Practical Introduction,"[Elena Llaudet,Kosuke Imai]",39.95,
+Guerrilla Data Analysis Using Microsoft Excel: Overcoming Crap Data and Excel Skirmishes,"[Oz du Soleil,Bill Jelen]",34.95,5
+Qualitative Data Analysis: A Methods Sourcebook,"[Matthew B. Miles,A. Michael Huberman et al.]",85.5,4.7
+Excel Data Analysis For Dummies (For Dummies (Computer/Tech)),[Paul McFedries],24.49,4
+Data Analysis Using SQL and Excel,[Gordon S. Linoff],38.54,4.4
+Python for ArcGIS Pro: Automate cartography and data analysis using ArcPy ArcGIS API for Python Notebooks and pandas,"[Silas Toms,Bill Parker et al.]",,4.7
+Python for Excel: A Modern Environment for Automation and Data Analysis,[Felix Zumstein],32.99,4.5
+Storytelling with Data: Lets Practice!,[Cole Nussbaumer Knaflic],24.49,4.7
+Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis data preparation forecasting and model evaluation,[Tarek A. Atwan],47.49,4.9
+Data Driven Fire Administration: An Introduction to Research Methods Statistical Analysis and Analytic Management for the Fire Service,"[H Scott Walker,Karen L. Sears]",59.99,
+Regression Analysis: An Intuitive Guide for Using and Interpreting Linear Models,[Jim Frost],23.74,4.6
+MASTERING EXCEL DATA & STATISTICAL ANALYSIS: All-In-One Practical Approach to Creating and Analyzing Data Charts And Pivot Tables for Better Business ... Tricks on Data Analysis & Business Modelling,[CARTY BINN],23.37,
+"Problems for ""Data Analysis for Social Scientists: A Foundational Crash Course""",[Sara Fisher Ellison],10,3.5
+Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis,"[Ethan Bueno de Mesquita,Anthony Fowler]",28.45,4.3
+Topological Data Analysis with Applications,"[Gunnar Carlsson,Mikael Vejdemo-Johansson]",42.58,5
+Storytelling with Data: A Data Visualization Guide for Business Professionals,[Cole Nussbaumer Knaflic],28.49,4.6
+R in Action: Data Analysis and Graphics with R,[Dr. Rob Kabacoff],51.96,4.6
+Excel 2022: The Most Comprehensive Guide to Learn All Formulas and Functions in Just One Week with Step--Step Explanations Practical Examples & Picture Demonstrations.,[Kevin Cooper],19.62,4.9
+Data Analysis: For Continuous School Improvement,[Victoria L. Bernhardt],39.96,4.6
+Lab Manual for Statistical Analysis,"[Dawn M. McBride,J. Cooper Cutting]",30,4.8
+Longitudinal Analysis: Modeling Within-Person Fluctuation and Change (Multivariate Applications Series),,76.98,4.6
+Business Intelligence Guidebook: From Data Integration to Analytics,[Rick Sherman],54.95,4.4
+Data Flow Diagrams - Simply Put!: Process Modeling Techniques for Requirements Elicitation and Workflow Analysis (Advanced Business Analysis Topics),,11.97,4.2
+Julia for Data Analysis,[Bogumil Kaminski],59.99,
+Qualitative Data Analysis: Practical Strategies,[Pat Bazeley],45,4.5
+Econometric Analysis of Cross Section and Panel Data second edition (The MIT Press),[Jeffrey M. Wooldridge],115,4.5
+Computational Topology for Biomedical Image and Data Analysis (Focus Series in Medical Physics and Biomedical Engineering),,1318.36,
+R for Data Analysis in easy steps - R Programming essentials,,13.99,4.3
+Regression Analysis of Count Data (Econometric Society Monographs Series Number 30),"[A. Colin Cameron,Pravin K. Trivedi]",,4.5
+Secondary Data in Mixed Methods Research (Mixed Methods Research Series),,45,4.4
+Data Analysis: A Bayesian Tutorial,"[Devinderjit Sivia,John Skilling]",47.97,4.6
+Computational Topology for Data Analysis,"[Tamal Krishna Dey,Yusu Wang]",58.31,
+Cluster Analysis 5th Edition,[Everitt],2451.69,4.2
+Intelligent Reliability Analysis Using MATLAB and AI: Perform Failure Analysis and Reliability Engineering using MATLAB and Artificial Intelligence (English Edition),"[Dr. Cherry Bhargava,Dr. Pardeep Kumar Sharma]",19.95,
+Data Analytics: Advanced Guide to Learn the Realms of Data Analytics Effectively,[Benjamin Smith],19.99,
+Foundations of Crime Analysis: Data Analyses and Mapping,"[Jeffery T. Walker,Grant R. Drawve]",66.95,4.1
+Qualitative Data Analysis with NVivo,"[Kristi Jackson,Pat Bazeley]",47,4.6
+Data Engineering with Alteryx: Helping data engineers apply DataOps practices with Alteryx,[Paul Houghton],44.99,4.8
+Pandas 1.x Cookbook: Practical recipes for scientific computing time series analysis and exploratory data analysis using Python 2nd Edition,"[Matt Harrison,Theodore Petrou]",39.99,4.3
+SPSS Survival Manual: A Step Step Guide to Data Analysis Using IBM SPSS,[Pallant],38.25,4.7
+Advanced Algorithms and Data Structures,[Marcello La Rocca],45.99,4.2
+Recovering Black Storytelling in Qualitative Research (Futures of Data Analysis in Qualitative Research),,34.03,4.5
+Adventures in Social Research: Data Analysis Using IBM SPSS Statistics,"[Earl Robert Babbie,William E. Wagner et al.]",85,4.4
+Data Analysis: A Model Comparison Approach to Regression ANOVA and Beyond,"[Charles M. Judd,Gary H. McClelland et al.]",73.43,4.4
+Data Analysis with SPSS: A First Course in Applied Statistics,"[Stephen Sweet,Karen Grace-Martin]",105.99,4.2
+Qualitative and Mixed Methods Data Analysis Using Dedoose: A Practical Approach for Research Across the Social Sciences,"[Michelle Suzanne Salmona,Eli Lieber et al.]",45,4.3
+Doing Bayesian Data Analysis: A Tutorial with R JAGS and Stan,[John Kruschke],68.99,4.6
+Learning R: A Step--Step Function Guide to Data Analysis,[Richard Cotton],40.99,4.4
+Analysis of Panel Data (Econometric Society Monographs),[Cheng Hsiao],49.99,
+Advanced Statistics in Research: Reading Understanding and Writing Up Data Analysis Results,[Larry Hatcher],59.95,4.7
+Intro to Python for Computer Science and Data Science: Learning to Program with AI Big Data and The Cloud,"[Paul Deitel,Harvey Deitel]",86.69,4.7
+Social Statistics: Managing Data Conducting Analyses Presenting Results (Sociology Re-Wired),[Thomas J. Linneman],105.63,5
+An Introduction to Analysis of Financial Data with R,[Tsay],53.71,4.2
+Undergraduate Lectures on Measurements and Data Analysis (2nd Printing),[Dr. Paul Rumbach],30,
+Data Structures and Algorithm Analysis in C++ Third Edition (Dover Books on Computer Science),,28.8,4.4
+Experimental Design and Practical Data Analysis in POSITRON EMISSION TOMOGRAPHY,"[Prof Federico E Turkheimer,Mattia Veronese et al.]",39.9,4.5
+Think Bayes: Bayesian Statistics in Python (Oreilly),[Allen B. Downey],23.98,4.5
+Applying Quantitative Bias Analysis to Epidemiologic Data (Statistics for Biology and Health),,53.03,5
+PYTHON FOR DATA ANALYSIS: A PRACTICAL GUIDE YOU CANâ€™T MISS TO MASTER DATA USING PYTHON. KEY TOOLS FOR DATA SCIENCE INTRODUCING YOU INTO DATA MANIPULATION DATA VISUALIZATION MACHINE LEARNING.,[ERICK THOMPSON],15.99,4.6
+Data Literacy Fundamentals: Understanding the Power & Value of Data (The Data Literacy Series),,34.95,4.4
+Data Analysis: An Introduction (Quantitative Applications in the Social Sciences),,28.01,4.3
+Hands-On Graph Analytics with Neo4j: Perform graph processing and visualization techniques using connected data across your enterprise,[Estelle Scifo],44.99,4.2
+Python for Data Science For Dummies,"[John Paul Mueller,Luca Massaron]",19.89,4.4
+Problem Solving and Data Analysis: Sat Math Practice Test,[Educational Testing Group],14.95,5
+Financial Theory with Python: A Gentle Introduction,[Yves Hilpisch],32.99,4.3
+Think Stats: Exploratory Data Analysis,[Allen B. Downey],25.49,4.2
+Learn T-SQL Querying: A guide to developing efficient and elegant T-SQL code,"[Pedro Lopes,Pam Lahoud]",39.99,4.7
+Analysis of Categorical Data with R (Chapman & Hall/CRC Texts in Statistical Science),,92.7,4.6
+Qualitative Data Analysis: An Introduction,[Carol Grbich],42.73,4.5
+Exploratory Data Analysis with R,[Roger Peng],20,4.3
+Statistics and Data Analysis for Nursing Research,[Denise Polit],113.99,4.3
+An Introduction to Data Analysis: Quantitative Qualitative and Mixed Methods,[Tiffany Bergin],46,4.6
+Analytics Stories: Using Data to Make Good Things Happen,[Wayne L. Winston],19.89,4.8
+Fuzzy Transforms for Image Processing and Data Analysis: Core Concepts Processes and Applications,"[Ferdinando Di Martino,Salvatore Sessa]",169.99,
+Data Analysis with Mplus (Methodology in the Social Sciences),,52,4.8
+Unstructured Data Analysis: Entity Resolution and Regular Expressions in SAS,[K. Matthew Windham],34.95,4.5
+Spatial Data Analysis: Models Methods and Techniques (SpringerBriefs in Regional Science),,74.99,5
+The Good the Bad and the Data: Shane the Lone Ethnographerâ€™s Basic Guide to Qualitative Data Analysis,[Sally Campbell Galman],44.95,4.7
+Codeless Time Series Analysis with KNIME: A practical guide to implementing forecasting models for time series analysis applications,"[Corey Weisinger,Maarit Widmann et al.]",44.99,4.7
+An Introduction to Statistics and Data Analysis Using StataÂ®: From Research Design to Final Report,"[Lisa Daniels,Nicholas W. Minot]",74.61,4.6
+Tableau Prep Cookbook: Use Tableau Prep to clean combine and transform your data for analysis,[Hendrik Kleine],39.99,4.7
+A Step Step Guide PLS-SEM Data Analysis Using SmartPLS 4 (Partial least squares structural equation modeling),[Yan Piaw Chua],40,
+Network Security Through Data Analysis: From Data to Action,[Michael Collins],46.63,4.5
+A Primer in Biological Data Analysis and Visualization Using R,[Gregg Hartvigsen],37.25,4.3
+Behavioral Data Analysis with R and Python: Customer-Driven Data for Real Business Results,[Florent Buisson],37.74,4.4
+Mathematical Foundations for Data Analysis (Springer Series in the Data Sciences),,69.99,
+Statistical Rethinking: A Bayesian Course with Examples in R and STAN (Chapman & Hall/CRC Texts in Statistical Science),,75.07,4.8
+An Introduction to Categorical Data Analysis 3rd Edition (Wiley Series in Probability and Statistics),[Agresti],99.99,4.5
+Student Solutions Manual for Ott/Longneckers An Introduction to Statistical Methods and Data Analysis 7th,"[R. Lyman Ott,Micheal T. Longnecker]",84.95,3.5
+Microsoft Excel Data Analysis and Business Modeling (Business Skills),[Wayne Winston],49.99,4.5
+Text Analytics with Python: A Practitioners Guide to Natural Language Processing,[Dipanjan Sarkar],23.49,4.6
+Essentials of Qualitative Meta-Analysis (Essentials of Qualitative Methods),,19.99,
+Data Analysis Using Regression and Multilevel/Hierarchical Models,,64.5,4.4
+Introduction to Data Analytics for Accounting (International edition) Textbook only,[Ryan A. Teeter Vernon Richardson Katie L. Terrell],50,5
+Statistical Analysis with Missing Data (Wiley Series in Probability and Statistics),"[Roderick J. A. Little,Donald B. Rubin]",86.25,4
+Adverse Impact Analysis: Understanding Data Statistics and Risk,"[Scott B. Morris,Eric M. Dunleavy]",68.95,5
+Hierarchical Modeling and Analysis for Spatial Data (Chapman & Hall/CRC Monographs on Statistics and Applied Probability),,88.5,4.1
+Disrupting Data Governance: A Call to Action,[Laura B. Madsen],29.95,4.4
+Python for Everybody: Exploring Data in Python 3,"[Dr. Charles Russell Severance,Sue Blumenberg et al.]",9.99,4.6
+ggplot2: Elegant Graphics for Data Analysis (Use R),,41.78,4.4
+Survival Analysis: Techniques for Censored and Truncated Data (Statistics for Biology and Health),,119.99,4.2
+Time Series (Chapman & Hall/CRC Texts in Statistical Science),"[Robert Shumway,David Stoffer]",54.68,4.1
+SPSS For Beginners in 45 Minutes: A 2021 Quick Reference Guide to Research Methods Data Analysis and Interpretation of Statistical Data,[Bill Wesley],10.99,3.5
+Crime Analysis with Crime Mapping,[Rachel Boba Santos],87.99,4.6
+Applied Longitudinal Analysis,"[Garrett M. Fitzmaurice,Nan M. Laird et al.]",122.76,4.3
+Epidemiology: Study Design and Data Analysis Third Edition (Chapman & Hall/CRC Texts in Statistical Science),,99.41,4.4
+Analysis of Economic Data,[Gary Koop],52.59,4.1
+In-Memory Analytics with Apache Arrow: Perform fast and efficient data analytics on both flat and hierarchical structured data,"[Matthew Topol,Wes McKinney]",44.99,5
+Data Analysis from Scratch with Python: The Complete Beginners Guide for Machine Learning Techniques and A Step Step NLP using Python Guide To Expert (Including Programming Interview Questions),[Stephen Richard],10.99,4.4
+Functional Data Analysis with R and MATLAB (Use R!),,69.51,4.7
+Dyadic Data Analysis (Methodology in the Social Sciences),,62.52,4.4
+The 4-Step Thematic Data Analysis With MAXQDA,[Dr. Michael Amanfi],60,4.8
+Learning Spark: Lightning-Fast Data Analytics,"[Jules Damji,Brooke Wenig et al.]",55.37,4.7
+Analytics: Data Science Data Analysis and Predictive Analytics for Business,[Daniel Covington],21.97,3.9
+Practical Data Analysis with JMP Third Edition,[Robert Carver],54.99,3.5
+Python for Finance: Mastering Data-Driven Finance,[Yves Hilpisch],53.65,4.6
+Applied Spatial Data Analysis with R (Use R! 10),"[Roger S. Bivand,Edzer Pebesma et al.]",72.47,4.5
+Hands-On Exploratory Data Analysis with R: Become an expert in exploratory data analysis using R packages,"[Radhika Datar,Harish Garg]",29.99,3.2
+The Data Collection Toolkit: Everything You Need to Organize Manage and Monitor Classroom Data,[Cindy Golden],42.95,4.5
+Qualitative Data Analysis with ATLAS.ti,[Susanne Friese],50,4.7
+C++ Programming: Program Design Including Data Structures (MindTap Course List),[D. S. Malik],98.7,4.4
+Regression Analysis with Python,"[Luca Massaron,Alberto Boschetti]",46.99,4.1
+Longitudinal Data Analysis for the Behavioral Sciences Using R,[Jeffrey D. Long],96.91,4.4
+Practical SQL 2nd Edition: A Beginners Guide to Storytelling with Data,[Anthony DeBarros],27.99,4.7
+Python Crash Course for Data Analysis: A Complete Beginner Guide for Python Coding NumPy Pandas and Data Visualization (Machine Learning & Data Science for Beginners),,17.99,4.1
+Bayesian Modeling and Computation in Python (Chapman & Hall/CRC Texts in Statistical Science),,75.32,4.2
+Random Data: Analysis and Measurement Procedures,"[Julius S. Bendat,Allan G. Piersol]",168.89,4.2
+Data Envelopment Analysis: Let the Data Speak for Themselves,[Joe Zhu],49.99,4.6
+Hands-On Financial Modeling with Microsoft Excel 2019: Build practical models for forecasting valuation trading and growth analysis using Excel 2019,[Shmuel Oluwa],33.29,4.2
+Statistics for Machine Learning: Implement Statistical methods used in Machine Learning using Python (English Edition),[Himanshu Singh],26.95,4
+Eco-Stats: Data Analysis in Ecology: From t-tests to Multivariate Abundances (Methods in Statistical Ecology),[David I Warton],139.99,
+Thematic Analysis: A Practical Guide,"[Virginia Braun,Victoria Clarke]",45,4.9
+Modes of Thinking for Qualitative Data Analysis,[Melissa Freeman],36.79,4.9
+A Common-Sense Guide to Data Structures and Algorithms Second Edition: Level Up Your Core Programming Skills,[Jay Wengrow],39.71,4.7
+Topological Data Analysis for Genomics and Evolution: Topology in Biology,"[Raul Rabadan,Andrew J. Blumberg]",43.03,4.5
+Mathematical Statistics and Data Analysis (with CD Data Sets) (Available 2010 Titles Enhanced Web Assign),,168.7,3.8
+Hands-On Time Series Analysis with R: Perform time series analysis and forecasting using R,,33.29,4.4
+Exploratory Data Analysis with MATLABÂ® (Chapman & Hall/CRC Computer Science & Data Analysis),,55.37,4
+Performing Data Analysis Using IBM SPSS,"[Lawrence S. Meyers,Glenn C. Gamst et al.]",82.99,4.5
+Next Generation Data Management: Using Your Data Assets to Drive Mission Success,"[Dr Mark Brady,Barry Lyons et al.]",38,
+Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence,"[Judith D. Singer,John B. Willett]",78.49,4.5
+Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining (ACM Books),,95.95,4.3
+Applied Survey Data Analysis (Chapman & Hall/CRC Statistics in the Social and Behavioral Sciences),,54.95,4.8
+Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures,[Claus O. Wilke],51.49,4.6
+Numerical Methods Using Java: For Data Science Analysis and Engineering,[Haksun Li PhD],32.92,5
+Data Analysis with Microsoft Power BI,[Brian Larson],43.15,3.8
+Python: - The Bible- 3 Manuscripts in 1 book: -Python Programming For Beginners -Python Programming For Intermediates -Python Programming for Advanced (Your place to learn Python with ease),[Maurice J. Thompson],27.97,4.3
+Mastering Vim: Build a software development environment with Vim and Neovim,[Ruslan Osipov],44.99,4.8
+Hands-On Network Forensics: Investigate network attacks and find evidence using common network forensic tools,[Nipun Jaswal],37.99,4.4
+Python: 3 books in 1- Your complete guide to python programming with Python for Beginners Python Data Analysis and Python Machine Learning (Programming Languages for Beginners),[Brady Ellison],24.95,4.7
+Pandas for Everyone: Python Data Analysis (Addison-Wesley Data & Analytics Series),,38.91,4.5
+Real World Health Care Data Analysis: Causal Methods and Implementation Using SASÂ®: Causal Methods and Implementation Using SASÂ®,"[Douglas Faries,Xiang Zhang et al.]",84.95,4.2
+Introduction to Functional Data Analysis (Chapman & Hall/CRC Texts in Statistical Science),,54.95,3.8
+Adjustment Computations: Spatial Data Analysis,[Charles D. Ghilani],100.98,4.5
+DATA ANALYTICS: Simple and Effective Tips and Tricks to Learn Data Analytics Effectively,[Benjamin Smith],19.99,5
+Artificial Intelligence with Power BI: Take your data analytics skills to the next level leveraging the AI capabilities in Power BI,[Mary-Jo Diepeveen],46.99,4.4
+Hands on Azure Data Studio: Microsofts Open Platform for Data Engineering and Analytics,[Jim Miller],9.99,4.3
+Data Structures & Algorithm Analysis in C++,[Mark Weiss],177.32,4.2
+The Esri Guide to GIS Analysis Volume 2: Spatial Measurements and Statistics,,45.49,4.7
+The Handbook for Collaborative Common Assessments: Tools for Design Delivery and Data Analysis (Practical Measures for Improving Your Collaborative Common Assessment Process),[Cassandra Erkens],39.95,4.8
+Learn Microsoft PowerApps: Build customized business applications without writing any code,[Matthew Weston],39.89,4.2
+Software Architecture Patterns for Serverless Systems: Architecting for innovation with events autonomous services and micro frontends,"[John Gilbert,Ed Price]",45,4.8
+Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars LEGO and Rubber Ducks,[Will Kurt],33.2,4.6
+The Data Revolution: A Critical Analysis of Big Data Open Data and Data Infrastructures,[Rob Kitchin],42,5
+Data Structures and Algorithm Analysis in Java,[Mark Weiss],132.98,4.4
+Azure Synapse Analytics Cookbook: Implement a limitless analytical platform using effective recipes for Azure Synapse,"[Gaurav Agarwal,Meenakshi Muralidharan et al.]",41.99,4.3
+CompTIA Data+ Study Guide: Exam DA0-001,"[Mike Chapple,Sharif Nijim]",34.18,4.7
+The Science of Deep Learning,[Iddo Drori],59.99,
+Inside Deep Learning: Math Algorithms Models,[Edward Raff],45.2,5
+Mathematical Aspects of Deep Learning,"[Philipp Grohs,Gitta Kutyniok]",89.99,
+Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD,"[Jeremy Howard,Sylvain Gugger]",36.99,4.8
+Practical Deep Learning: A Python-Based Introduction,[Ronald T. Kneusel],36.54,4.8
+Deep Learning with PyTorch: Build train and tune neural networks using Python tools,"[Eli Stevens,Luca Antiga et al.]",36.26,4.4
+Deep Learning from Scratch: Building with Python from First Principles,[Seth Weidman],38.99,4.4
+Learning Deep Learning: Theory and Practice of Neural Networks Computer Vision Natural Language Processing and Transformers Using TensorFlow,[Magnus Ekman],53.23,4.7
+Deep Learning: A Visual Approach,[Andrew Glassner],56.99,4.7
+Deep Learning with Python Second Edition,[Francois Chollet],37.23,4.6
+Deep Learning (The MIT Press Essential Knowledge series),,13.99,4.5
+Deep Learning (Adaptive Computation and Machine Learning series),,54.25,4.3
+Deep Learning Illustrated: A Visual Interactive Guide to Artificial Intelligence (Addison-Wesley Data & Analytics Series),,44.39,4.5
+Deep Learning Architectures: A Mathematical Approach (Springer Series in the Data Sciences),,58.99,4.2
+Foundations of Deep Reinforcement Learning: Theory and Practice in Python (Addison-Wesley Data & Analytics Series),,45.59,4.4
+Dive Into Deep Learning: Tools for Engagement,"[Joanne Quinn,Joanne J. McEachen et al.]",38.95,4.7
+Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms,"[Nithin Buduma,Joe Papa et al.]",50.99,
+Deep Learning with TensorFlow 2 and Keras: Regression ConvNets GANs RNNs NLP and more with TensorFlow 2 and the Keras API 2nd Edition,"[Antonio Gulli,Amita Kapoor et al.]",33.21,4.5
+Deep Learning with JavaScript: Neural networks in TensorFlow.js,"[Shanqing Cai,Stan Bileschi et al.]",43.49,4.8
+Deep Learning in Science,[Pierre Baldi],47.55,4.7
+Applied Deep Learning and Computer Vision for Self-Driving Cars: Build autonomous vehicles using deep neural networks and behavior-cloning techniques,"[Sumit Ranjan,Dr. S. Senthamilarasu]",44.99,3.8
+Deep Learning for Vision Systems,[Mohamed Elgendy],39.49,4.8
+Deep Reinforcement Learning Hands-On: Apply modern RL methods to practical problems of chatbots robotics discrete optimization web automation and more 2nd Edition,[Maxim Lapan],54.99,4.5
+Modern Computer Vision with PyTorch: Explore deep learning concepts and implement over 50 real-world image applications,"[V Kishore Ayyadevara,Yeshwanth Reddy]",48.84,4.6
+Synthetic Data for Deep Learning: Generate Synthetic Data for Decision Making and Applications with Python and R,"[Necmi GÃ¼rsakal,Sadullah Ã‡elik et al.]",44.99,
+Geometry of Deep Learning: A Signal Processing Perspective (Mathematics in Industry 37),[Jong Chul Ye],66.27,3.6
+Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python,"[Sebastian Raschka,Yuxi (Hayden) Liu et al.]",46.79,4.7
+Production-Ready Applied Deep Learning: Learn how to construct and deploy complex models in PyTorch and TensorFlow deep learning frameworks,"[Tomasz Palczewski,Jaejun (Brandon) Lee et al.]",47.49,
+Grokking Deep Reinforcement Learning,[Miguel Morales],49.99,4.7
+Deep Learning for the Life Sciences: Applying Deep Learning to Genomics Microscopy Drug Discovery and More,"[Bharath Ramsundar,Peter Eastman et al.]",48.49,4.2
+Deep Learning in Production,[Sergios Karagiannakos],29.99,4.7
+Math for Deep Learning: What You Need to Know to Understand Neural Networks,[Ronald T. Kneusel],36.49,4.5
+Introduction to Deep Learning (The MIT Press),[Eugene Charniak],35,4
+The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks,"[Daniel A. Roberts,Sho Yaida et al.]",75.99,4.7
+Practical Deep Learning for Cloud Mobile and Edge: Real-World AI & Computer-Vision Projects Using Python Keras & TensorFlow,"[Anirudh Koul,Siddha Ganju et al.]",55.43,4.6
+Deep Learning: Engage the World Change the World,"[Michael Fullan,Joanne Quinn et al.]",32.33,4.5
+Grokking Deep Learning,[Andrew Trask],39.49,4.4
+Practical Deep Learning at Scale with MLflow: Bridge the gap between offline experimentation and online production,"[Yong Liu,Dr. Matei Zaharia]",44.99,4.8
+Deep Learning For Dummies,"[John Paul Mueller,Luca Massaron]",19.89,4.5
+Deep Learning with Python,[Francois Chollet],32.49,4.6
+Deep Generative Modeling,[Jakub M. Tomczak],70,5
+Generative Deep Learning: Teaching Machines to Paint Write Compose and Play,[David Foster],46.99,4.5
+Artificial Intelligence Example: Acquire advanced AI machine learning and deep learning design skills 2nd Edition,[Denis Rothman],39.99,4.2
+Deep Learning for NLP and Speech Recognition,"[Uday Kamath,John Liu et al.]",97.31,4.6
+Deep Neural Evolution: Deep Learning with Evolutionary Computation (Natural Computing Series),,66.59,5
+Hands-On Python Natural Language Processing: Explore tools and techniques to analyze and process text with a view to building real-world NLP applications,"[Aman Kedia,Mayank Rasu]",39.99,4.6
+DEEP LEARNING WITH MATLAB,[Perez],25.99,
+Guide to Deep Learning Basics: Logical Historical and Philosophical Perspectives,[Sandro Skansi],14.59,
+Building Machine Learning and Deep Learning Models on Google Cloud Platform: A Comprehensive Guide for Beginners,[Ekaba Bisong],28.02,4.6
+Deep Learning with R,"[Francois Chollet,J. J. Allaire]",46.99,4.5
+Deep Learning for Natural Language Processing,[Stephan Raaijmakers],49.99,
+Python Machine Learning for Beginners: Learning from scratch NumPy Pandas Matplotlib Seaborn Scikitlearn and TensorFlow for Machine Learning and ... Learning & Data Science for Beginners),,19.99,4.5
+Adversarial Deep Learning in Cybersecurity: Attack Taxonomies Defence Mechanisms and Learning Theories,"[Aneesh Sreevallabh Chivukula,Xinghao Yang et al.]",199.99,
+Hands-On Machine Learning with Scikit-Learn Keras and TensorFlow: Concepts Tools and Techniques to Build Intelligent Systems,[AurÃ©lien GÃ©ron],75.99,
+Black Hat Python 2nd Edition: Python Programming for Hackers and Pentesters,"[Justin Seitz,Tim Arnold]",37.49,4.7
+Modern Deep Learning for Tabular Data: Novel Approaches to Common Modeling Problems,"[Andre Ye,Andy Wang]",49.99,
+Probabilistic Deep Learning: With Python Keras and TensorFlow Probability,"[Oliver Duerr,Beate Sick et al.]",49.99,4.2
+High-Dimensional Data Analysis with Low-Dimensional Models: Principles Computation and Applications,"[John Wright,Yi Ma]",75.99,4.8
+Transformers for Natural Language Processing: Build train and fine-tune deep neural network architectures for NLP with Python PyTorch TensorFlow BERT and GPT-3 2nd Edition,"[Denis Rothman,Antonio Gulli]",39.89,4.7
+Memorable teaching: Leveraging memory to build deep and durable learning in the classroom (High Impact Teaching series),[Peps Mccrea],14.95,4.6
+Deep Reinforcement Learning in Action,"[Alexander Zai,Brandon Brown]",49.2,4.2
+Artificial Intelligence with Python Cookbook: Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6,[Ben Auffarth],39.99,4.5
+Hands-On Image Generation with TensorFlow: A practical guide to generating images and videos using deep learning,[Soon Yau Cheong],40.59,4.8
+Modern Deep Learning Design and Application Development: Versatile Tools to Solve Deep Learning Problems,[Andre Ye],49.44,5
+Deep Learning with Keras: Implementing deep learning models and neural networks with the power of Python,"[Antonio Gulli,Sujit Pal]",51.99,3.5
+Hands-On Genetic Algorithms with Python: Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems,[Eyal Wirsansky],41.99,4.6
+Engineering Deep Learning Systems,"[Chi Wang,Donald Szeto]",59.99,
+Evolutionary Deep Learning: Genetic algorithms and neural networks,[Michael Lanham],59.99,
+Transformers for Natural Language Processing: Build innovative deep neural network architectures for NLP with Python PyTorch TensorFlow BERT RoBERTa and more,[Denis Rothman],40.59,4.2
+Introduction to Deep Learning for Healthcare,"[Cao Xiao,Jimeng Sun]",55.49,4.1
+Deep Learning and Physics (Mathematical Physics Studies),,99.99,2
+R Deep Learning Essentials: A step--step guide to building deep learning models using TensorFlow Keras and MXNet 2nd Edition,"[Mark Hodnett,Joshua F. Wiley]",41.99,4.1
+Implement NLP use-cases using BERT: Explore the Implementation of NLP Tasks Using the Deep Learning Framework and Python (English Edition),[Amandeep],29.95,3
+Machine Learning at Scale with H2O: A practical guide to building and deploying machine learning models on enterprise systems,"[Gregory Keys,David Whiting]",39.99,5
+Python: The Complete Crash Course to Learn Python in One Week Machine Learning and Deep Learning with Hands-On Exercises,[frad willson],14.99,
+Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python,[Santanu Pattanayak],69.99,4.1
+ARTIFICIAL INTELLIGENCE WITH MATLAB. DEEP LEARNING ARCHITECTURES,[Perez],25.99,
+GANs in Action: Deep learning with Generative Adversarial Networks,"[Jakub Langr,Vladimir Bok]",37.99,4.2
+From Curiosity to Deep Learning: Personal Digital Inquiry in Grades K-5,"[Julie Coiro,Elizabeth Dobler et al.]",33.06,4.6
+Deep Learning Applications of Short-range Radars,"[Avik Santra,Souvik Hazra]",179,5
+Deep Learning Cookbook: Practical Recipes to Get Started Quickly,[Douwe Osinga],37.3,4.5
+Deep Reinforcement Learning with Python: With PyTorch TensorFlow and OpenAI Gym,[Nimish Sanghi],36.49,4.3
+Empowering Young Children,[Wendy Ostroff],34.95,
+Deep Discourse: A Framework for Cultivating Student-Led Discussions -Use Conversation to Raise Student Learning Motivation and Engagement in K-12 Classrooms,"[Sandi Novak,Cara Slattery]",36.95,5
+Purposeful Play: A Teachers Guide to Igniting Deep and Joyful Learning Across the Day,"[Kristine Mraz,Alison Porcelli et al.]",28.34,4.7
+Generative AI with Python and TensorFlow 2: Create images text and music with VAEs GANs LSTMs Transformer models,"[Joseph Babcock,Raghav Bali]",37.99,4.3
+DEEP LEARNING TOOLS: NEURAL NETWORKS USING MATLAB,[Perez],25.99,
+Embedded Deep Learning: Algorithms Architectures and Circuits for Always-on Neural Network Processing,"[Bert Moons,Daniel Bankman et al.]",88.12,5
+Learning Unix for OS X: Going Deep With the Terminal and Shell,[Dave Taylor],24.99,4.4
+Hands-On Natural Language Processing with PyTorch 1.x: Build smart AI-driven linguistic applications using deep learning and NLP techniques,[Thomas Dop],41.99,3.7
+Python Deep Learning Projects: 9 projects demystifying neural network and deep learning models for building intelligent systems,"[Matthew Lamons,Rahul Kumar et al.]",46.99,3.9
+Deep Learning Pipeline: Building a Deep Learning Model with TensorFlow,"[Hisham El-Amir,Mahmoud Hamdy]",15.43,2
+Machine Learning for Cybersecurity: Innovative Deep Learning Solutions (SpringerBriefs in Computer Science),[Marwan Omar],54.99,
+Beginning Deep Learning with TensorFlow: Work with Keras MNIST Data Sets and Advanced Neural Networks,"[Liangqu Long,Xiangming Zeng]",28.98,
+Cultivating Curiosity in K-12 Classrooms: How to Promote and Sustain Deep Learning,[Wendy L. Ostroff],21.9,4.5
+Machine Learning for Economics and Finance in TensorFlow 2: Deep Learning Models for Research and Industry,[Isaiah Hull],48.04,3.3
+Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python 2nd Edition,[Stefan Jansen],44.99,4.5
+The Deep Learning AI Playbook: Strategy for Disruptive Artificial Intelligence,[Carlos E Perez],29,3.7
+Risk Modeling: Practical Applications of Artificial Intelligence Machine Learning and Deep Learning (Wiley and SAS Business Series),"[Terisa Roberts,Stephen J. Tonna]",47.92,
+AI and Machine Learning for Coders: A Programmers Guide to Artificial Intelligence,[Laurence Moroney],38.49,4.7
+Building Computer Vision Projects with OpenCV 4 and C++: Implement complex computer vision algorithms and explore deep learning and face detection,"[David Millan Escriva,Prateek Joshi et al.]",49.99,4.1
+Advanced Deep Learning with TensorFlow 2 and Keras: Apply DL GANs VAEs deep RL unsupervised learning object detection and segmentation and more 2nd Edition,[Rowel Atienza],39.99,4.5
+Deep Learning for Computer Vision with SASÂ®: An Introduction,[Robert Blanchard],25.95,
+Understanding Deep Learning: Application in Rare Event Prediction (Student Version),[Chitta Ranjan Ph.D.],30,
+Deep Learning on Graphs,"[Yao Ma,Jiliang Tang]",45.91,4.7
+Data Orchestration in Deep Learning Accelerators (Synthesis Lectures on Computer Architecture),"[Tushar Krishna,Hyoukjun Kwon et al.]",73.76,4.2
+Deep Reinforcement Learning,[Aske Plaat],58.31,
+Efficient Processing of Deep Neural Networks (Synthesis Lectures on Computer Architecture),"[Vivienne Sze,Yu-Hsin Chen et al.]",86.35,4.5
+Computer Vision: Algorithms and Applications (Texts in Computer Science),[Richard Szeliski],68.1,4.3
+Applied Software Development With Python & Machine Learning Wearable & Wireless Systems For Movement Disorder Treatment Via Deep Brain Stimulation,"[Robert Lemoyne,Timothy Mastroianni]",79.23,
+Data Scientist Pocket Guide: Over 600 Concepts Terminologies and Processes of Machine Learning and Deep Learning Assembled Together (English Edition),[Mohamed Sabri],29.95,4.7
+Deep Learning with fastai Cookbook: Leverage the easy-to-use fastai framework to unlock the power of deep learning,[Mark Ryan],44.99,4.6
+Learning TensorFlow: A Guide to Building Deep Learning Systems,"[Tom Hope,Yehezkel S. Resheff et al.]",35.75,3.9
+Machine and Deep Learning in Oncology Medical Physics and Radiology,"[Issam El Naqa,Martin J. Murphy]",174.64,
+Deep Learning for Physical Scientists: Accelerating Research with Machine Learning,"[Edward O. Pyzer-Knapp,Matthew Benatan]",69.1,5
+Deep Learning and the Game of Go,"[Max Pumperla,Kevin Ferguson]",50.58,4.4
+Automated Machine Learning with AutoKeras: Deep learning made accessible for everyone with just few lines of coding,[Luis Sobrecueva],41.99,4.7
+Deep Learning with TensorFlow: Explore neural networks and build intelligent systems with Python 2nd Edition,"[Giancarlo Zaccone,Md. Rezaul Karim]",36.11,3.2
+Advances in Electromagnetics Empowered Artificial Intelligence and Deep Learning (IEEE Press Series on Electromagnetic Wave Theory),"[Sawyer D. Campbell,Douglas H. Werner]",165,
+Practical MATLAB Deep Learning: A Projects-Based Approach,"[Michael Paluszek,Stephanie Thomas et al.]",38.34,
+AI Crash Course: A fun and hands-on introduction to machine learning reinforcement learning deep learning and artificial intelligence with Python,[Hadelin de Ponteves],29.99,4.2
+Deep Learning In Biology And Medicine,"[Davide Bacciu,Paulo J G Lisboa et al.]",97.65,
+Autonomous Robotics and Deep Learning (SpringerBriefs in Computer Science),,69.99,5
+Hands-On Music Generation with Magenta: Explore the role of deep learning in music generation and assisted music composition,[Alexandre DuBreuil],41.99,4.5
+Artificial Intelligence Machine Learning and Deep Learning,[Oswald Campesato],59.95,4.4
+Culture in School Learning: Revealing the Deep Meaning,[Etta R. Hollins],48.81,4.4
+Practical MATLAB Deep Learning: A Project-Based Approach,"[Michael Paluszek,Stephanie Thomas]",20.49,3.7
+Graph-Powered Machine Learning,[Alessandro Nego],42.99,4.4
+Mastering Computer Vision with TensorFlow 2.x: Build advanced computer vision applications using machine learning and deep learning techniques,[Krishnendu Kar],44.99,3.9
+DEEP LEARNING WITH PYTHON: 3 in 1- Beginners Guide+ Simple and Effective Tips and Tricks+ Advanced Guide to Learn Deep Learning with Python,[Benjamin Smith],49.99,3.5
+Practical Machine Learning with H2O: Powerful Scalable Techniques for Deep Learning and AI,[Darren Cook],33.09,4.2
+Deep Learning Approaches for Security Threats in IoT Environments,"[Mohamed Abdel-Basset,Nour Moustafa et al.]",140,
+Artificial Intelligence and Deep Learning in Pathology,[Stanley Cohen MD],82.3,4.1
+Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples,[Rishal Hurbans],55.95,4.5
+Codeless Deep Learning with KNIME: Build train and deploy various deep neural network architectures using KNIME Analytics Platform,"[Kathrin Melcher,Rosaria Silipo]",49.99,4.4
+Deep Learning Applications (Advances in Intelligent Systems and Computing 1098),,104.51,
+Deep Learning with Python: Learn Best Practices of Deep Learning Models with PyTorch,"[Nikhil Ketkar,Jojo Moolayil]",32.99,4
+Artificial Intelligence in Healthcare: AI Machine Learning and Deep and Intelligent Medicine Simplified for Everyone,[Dr Parag Suresh Mahajan MD],29.99,4.7
+Getting started with Deep Learning for Natural Language Processing: Learn how to build NLP applications with Deep Learning (English Edition),[Sunil Patel],29.95,4.6
+Neural Networks and Deep Learning: A Textbook,[Charu C. Aggarwal],49,4.5
+Deep Learning with PyTorch: A practical approach to building neural network models using PyTorch,[Vishnu Subramanian],31.75,3.5
+Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning,,45.39,4.5
+Deep Learning with R Second Edition,"[Francois Chollet,Tomasz Kalinowski et al.]",59.99,4.6
+Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications,[Chip Huyen],43.49,4.7
+Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing Climate Science and Geosciences,"[Gustau Camps-Valls,Devis Tuia et al.]",106.99,5
+Math and Architectures of Deep Learning,[Krishnendu Chaudhury],49.99,
+Programming Machine Learning: From Coding to Deep Learning,[Paolo Perrotta],33.49,4.8
+Beginning Anomaly Detection Using Python-Based Deep Learning: With Keras and PyTorch,"[Sridhar Alla,Suman Kalyan Adari]",25.49,4.3
+Deep Reinforcement Learning: Fundamentals Research and Applications,"[Hao Dong,Zihan Ding et al.]",137.42,4.5
+Deep Learning for Personalised Healthcare Services (Issn 7),"[Jain,Vishal et al.]",103.29,
+Deep Learning in a Disorienting World,[Jon F. Wergin],35.99,5
+Artificial Intelligence Engines: A Tutorial Introduction to the Mathematics of Deep Learning,[James V Stone],23.99,4.3
+Hands-On Machine Learning with C++: Build train and deploy end-to-end machine learning and deep learning pipelines,[Kirill Kolodiazhnyi],49.99,4.3
+Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation Model Building and MLOps,"[Valliappa Lakshmanan,Sara Robinson et al.]",36.99,4.6
+Deep Learning with Hadoop,[Dipayan Dev],41.99,4.7
+Hands-On Mathematics for Deep Learning: Build a solid mathematical foundation for training efficient deep neural networks,[Jay Dawani],39.99,4
+Mastering OpenCV 4 with Python: A practical guide covering topics from image processing augmented reality to deep learning with OpenCV 4 and Python 3.7,[Alberto Fernandez Villan],44.99,4
+Deep Learning with PyTorch Lightning: Swiftly build high-performance Artificial Intelligence (AI) models using Python,[Kunal Sawarkar],44.64,4.8
+Advanced Deep Learning with Python: Design and implement advanced next-generation AI solutions using TensorFlow and PyTorch,[Ivan Vasilev],44.99,4.6
+Differentiation and the Brain: How Neuroscience Supports the Learner-Friendly Classroom (Use Brain-Based Learning and Neuroeducation to Differentiate Instruction),"[David A. Sousa,Carol Ann Tomlinson]",31.38,4.7
+Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications,[Ian Pointer],34.49,4.1
+MATLAB Deep Learning: With Machine Learning Neural Networks and Artificial Intelligence,[Phil Kim],37.09,4.2
+Deep Learning for Radar and Communications Automatic Target Recognition,"[Uttam K. Majumder,Erik P. Blasch et al.]",179,
+Deep Learning: A Practitioners Approach,"[Josh Patterson,Adam Gibson]",23.49,4.2
+Synthetic Data for Deep Learning (Springer Optimization and Its Applications 174),,169.99,3.5
+Deep Reinforcement Learning with Python: Master classic RL deep RL distributional RL inverse RL and more with OpenAI Gym and TensorFlow 2nd Edition,[Sudharsan Ravichandiran],39.99,4.4
+Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python scikit-learn and TensorFlow,"[Sebastian Raschka,Vahid Mirjalili]",41.99,4.5
+Essentials of Deep Learning and AI: Experience Unsupervised Learning Autoencoders Feature Engineering and Time Series Analysis with TensorFlow Keras and scikit-learn (English Edition),"[Shashidhar Soppin,Dr. Manjunath Ramachandra et al.]",29.95,5
+Hands-On Deep Learning with Apache Spark: Build and deploy distributed deep learning applications on Apache Spark,[Guglielmo Iozzia],46.99,4
+Deep Learning from the Basics: Python and Deep Learning: Theory and Implementation,[Koki Saitoh],39.99,4.3
+Introduction to Machine Learning with Python: A Guide for Data Scientists,,45,4.5
+Machine Learning Engineering,[Andriy Burkov],39.49,4.7
+Feature Store for Machine Learning: Curate discover share and serve ML features at scale,[Jayanth Kumar M J],39.99,5
+Machine Learning Fundamentals,[Hui Jiang],47.49,4.3
+Applied Machine Learning Explainability Techniques: Make ML models explainable and trustworthy for practical applications using LIME SHAP and more,[Aditya Bhattacharya],44.99,5
+Machine Learning in the Oil and Gas Industry: Including Geosciences Reservoir Engineering and Production Engineering with Python,"[Yogendra Narayan Pandey,Ayush Rastogi et al.]",26.99,4.9
+Machine Learning For Dummies,[John Paul Mueller],20.49,4.2
+Journey to Become a Google Cloud Machine Learning Engineer: Build the mind and hand of a Google Certified ML professional,[Dr. Logan Song],42.74,
+Advances in Financial Machine Learning,[Marcos Lopez de Prado],40.49,4.5
+Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),,96.46,4.4
+Machine Learning: A Constraint-Based Approach,"[Marco Gori,Alessandro Betti et al.]",105,
+AWS Certified Machine Learning Specialty: MLS-C01 Certification Guide: The definitive guide to passing the MLS-C01 exam on the very first attempt,"[Somanath Nanda,Weslley Moura]",49.99,4.2
+Pattern Recognition and Machine Learning (Information Science and Statistics),[Christopher M. Bishop],76.1,4.6
+Fundamentals of Machine Learning for Predictive Data Analytics second edition: Algorithms Worked Examples and Case Studies,"[John D. Kelleher,Brian Mac Namee et al.]",80,4.8
+Machine Learning for Asset Managers (Elements in Quantitative Finance),,20,4.5
+Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI,[Robert (Munro) Monarch],42.49,4.4
+Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples,[Serg MasÃ­s],40.41,4.6
+Machine Learning for Streaming Data with Python: Rapidly build practical online machine learning solutions using River and other top key frameworks,[Joos Korstanje],44.99,5
+Machine Learning Engineering in Action,[Ben Wilson],52.24,5
+Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning series),"[Carl Edward Rasmussen,Christopher K. I. Williams]",50,4.7
+Understanding Machine Learning: From Theory to Algorithms,"[Shai Shalev-Shwartz,Shai Ben-David]",62.99,4.4
+Machine Learning in Finance: From Theory to Practice,"[Matthew F. Dixon,Igor Halperin et al.]",83.8,4.5
+Machine Learning with Amazon SageMaker Cookbook: 80 proven recipes for data scientists and developers to perform machine learning experiments and deployments,[Joshua Arvin Lat],51.99,4.9
+Introduction to Statistical and Machine Learning Methods for Data Science,"[Dr. Carlos Andre Reis Andre Reis Pinheiro,Mike Patetta]",29.95,5
+Probabilistic Numerics: Computation as Machine Learning,"[Philipp Hennig,Michael A. Osborne et al.]",62.99,
+Knowledge Graphs: Fundamentals Techniques and Applications (Adaptive Computation and Machine Learning series),,52.25,4.3
+Scaling Machine Learning with Spark: Distributed ML with MLlib TensorFlow and PyTorch,[Adi Polak],64.31,
+Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow,"[Hannes Hapke,Catherine Nelson]",35.49,4.5
+Hey Cyba,[Steve Young],22.3,4.3
+Python Programming for Beginners: The #1 Python Programming Crash Course for Beginners to Learn Python Coding Well & Fast (with Hands-On Exercises),[Codeone Publishing],19.45,4.3
+Machine Learning: A Bayesian and Optimization Perspective,[Sergios Theodoridis],74.42,4.6
+Machine Learning: A Quantitative Approach,[Henry H Liu],49.99,4.8
+Machine Learning for Text,[Charu C. Aggarwal],75.9,
+Machine Learning revised and updated edition (The MIT Press Essential Knowledge series),,15.95,4.1
+Machine Learning Guide for Oil and Gas Using Python: A Step--Step Breakdown with Data Algorithms Codes and Applications,"[Hoss Belyadi,Alireza Haghighat]",115.78,5
+Automated Machine Learning for Business,"[Kai R. Larsen,Daniel S. Becker]",45,5
+Data Mining: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems),,71.2,4.3
+Natural Language Processing with Transformers Revised Edition,"[Lewis Tunstall,Leandro von Werra et al.]",45.29,4.1
+Mastering Azure Machine Learning: Execute large-scale end-to-end machine learning with Azure 2nd Edition,"[Christoph Korner,Marcel Alsdorf]",44.99,5
+Getting Started with Natural Language Processing,[Ekaterina Kochmar],39.99,
+Build Your Own Programming Language: A programmers guide to designing compilers interpreters and DSLs for solving modern computing problems,[Clinton L. Jeffery],40.49,4.3
+Introduction to Online Convex Optimization second edition (Adaptive Computation and Machine Learning series),,60,
+Machine Learning in Asset Pricing (Princeton Lectures in Finance 1),,42.99,4.3
+Data Cleaning and Exploration with Machine Learning: Get to grips with machine learning techniques to achieve sparkling-clean data quickly,[Michael Walker],49.99,5
+Machine Learning Engineering on AWS: Building Scaling and Securing Machine Learning Systems and MLOps Pipelines in Production,[Joshua Arvin Lat],44.99,
+Practical Machine Learning for Computer Vision: End-to-End Machine Learning for Images,"[Valliappa Lakshmanan,Martin GÃ¶rner et al.]",52.99,4.1
+Getting Started with Amazon SageMaker Studio: Learn to build end-to-end machine learning projects in the SageMaker machine learning IDE,[Michael Hsieh],41.99,4.8
+Data Engineering with Google Cloud Platform: A practical guide to operationalizing scalable data analytics systems on GCP,[Adi Wijaya],49.99,4.6
+AWS Certified Machine Learning Study Guide: Specialty (MLS-C01) Exam,"[Shreyas Subramanian,Stefan Natu]",35.49,4.9
+Reinforcement Learning second edition: An Introduction (Adaptive Computation and Machine Learning series),,66.44,4.6
+Envisioning Information,[Edward R. Tufte],42,4.6
+Kubeflow for Machine Learning: From Lab to Production,"[Trevor Grant,Holden Karau et al.]",29.6,4.1
+Tree-Based Methods for Statistical Learning in R: A Practical Introduction with Applications in R (Chapman & Hall/CRC Data Science Series),,86.32,
+The Pragmatic Programmer: Your Journey To Mastery 20th Anniversary Edition (2nd Edition),"[David Thomas,Andrew Hunt]",30.26,4.8
+Python Machine Learning Workbook for Beginners: 10 Machine Learning Projects Explained from Scratch,,19.99,4.6
+Data Science and Machine Learning Interview Questions Using R: Crack the Data Scientist and Machine Learning Engineers Interviews with Ease (English Edition),[Vishwanathan Narayanan],19.95,4.3
+Automated Machine Learning on AWS: Fast-track the development of your production-ready machine learning applications the AWS way,"[Trenton Potgieter,Jonathan Dahlberg]",44.99,4.8
+Quantum Machine Learning with Python: Using Cirq from Google Research and IBM Qiskit,[Santanu Pattanayak],28.98,3.9
+TensorFlow Machine Learning Projects: Build 13 real-world projects with advanced numerical computations using the Python ecosystem,"[Ankit Jain,Armando Fandango et al.]",36.99,4
+Applied Machine Learning and AI for Engineers: Solve Business Problems That Cant Be Solved Algorithmically,[Jeff Prosise],64.36,
+An Introduction to Machine Learning,[Miroslav Kubat],56.99,
+Linear Algebra and Learning from Data,[Gilbert Strang],82.47,4.6
+Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists,"[Alice Zheng,Amanda Casari]",42.49,4.5
+Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms Worked Examples and Case Studies (The MIT Press),"[John D. Kelleher,Brian Mac Namee et al.]",59.94,4.6
+Feature Engineering Bookcamp,[Sinan Ozdemir],49.99,
+Build Your Own AI Investor: Third Edition (AI Investor Series),[Dr. Damon Lee],52.99,4.2
+Text Data Mining,"[Chengqing Zong,Rui Xia et al.]",29.31,5
+Mathematics for Machine Technology,"[John C. Peterson,Robert D. Smith]",125.99,4.6
+Distributed Machine Learning Patterns,[Yuan Tang],59.99,
+Machine Learning and Security: Protecting Systems with Data and Algorithms,"[Clarence Chio,David Freeman]",44.49,4.5
+Machine Learning for Beginners: Learn to Build Machine Learning Systems Using Python (English Edition),[Harsh Bhasin],16.23,3.9
+Python for Data Science: 2 Books in 1. A Practical Beginnerâ€™s Guide to learn Python Programming introducing into Data Analytics Machine learning Web Development with Hands-on Projects,[ERICK THOMPSON],24.99,3.5
+The Machine Learning Workshop: Get ready to develop your own high-performance machine learning algorithms with scikit-learn 2nd Edition,[Hyatt Saleh],36.99,4.6
+Bayesian Reasoning and Machine Learning,[David Barber],81.99,4.2
+Bayesian Optimization,[Roman Garnett],44.99,
+Introduction To Machine Learning In Quantitative Finance An (Advanced Textbooks In Mathematics),"[Hao Ni,Xin Dong et al.]",38.99,3.6
+Data Mining and Machine Learning: Fundamental Concepts and Algorithms,"[Mohammed J. Zaki,Wagner Meira Jr]",55.24,4.7
+Artificial Intelligence and Machine Learning for Business: A No-Nonsense Guide to Data Driven Technologies,[Steven Finlay],19.99,4.4
+Practical Machine Learning with Spark: Uncover Apache Sparkâ€™s Scalable Performance with High-Quality Algorithms Across NLP Computer Vision and ML(English Edition),"[Gourav Gupta,Dr. Manish Gupta et al.]",29.95,
+Machine Learning in Business: An Introduction to the World of Data Science,[John C Hull],39,4.9
+A First Course in Machine Learning (Chapman & Hall/CRC Machine Learning & Pattern Recognition),"[Simon Rogers,Mark Girolami]",43.96,4.4
+Statistics Data Mining and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data Updated Edition (Princeton Series in Modern Observational Astronomy 13),"[Å½eljko IveziÄ‡,Andrew J. Connolly et al.]",78.8,4.9
+Google BigQuery: The Definitive Guide: Data Warehousing Analytics and Machine Learning at Scale,"[Valliappa Lakshmanan,Jordan Tigani]",29.99,4.5
+Machine Learning: An Algorithmic Perspective (Chapman & Hall/CRC Machine Learning & Pattern Recognition),,78.96,4.2
+SQL FOR BEGINNERS: THE FUNDAMENTAL LANGUAGE FOR DATA SCIENCE TO MASTERING DATABASES. AN ESSENTIAL GUIDE YOU CANâ€™T MISS TO LEARN SQL IN 7 DAYS OR LESS WITH HANDS-ON PROJECTS.,[ERICK THOMPSON],13.99,3.9
+Introduction to Data Mining and Analytics,[Kris Jamsa],67.65,4.6
+Machine Learning for Hackers: Case Studies and Algorithms to Get You Started,"[Drew Conway,John Myles White]",49.99,3.7
+Automated Machine Learning in Action,"[Qingquan Song,Haifeng Jin et al.]",44.99,4.5
+A Primer on Machine Learning in Subsurface Geosciences (SpringerBriefs in Petroleum Geoscience & Engineering),,72,5
+Machine Learning Refined: Foundations Algorithms and Applications,"[Jeremy Watt,Reza Borhani et al.]",60.61,3.9
+Programming for Data Science: 4 Books in 1. The Complete Beginners Guide you Canâ€™t Miss to Master the Era of the Data Economy using Python Java SQL Coding,[ERICK THOMPSON],33.99,4
+Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data,[Ankur A. Patel],35.5,4.1
+Reliable Machine Learning: Applying SRE Principles to ML in Production,"[Cathy Chen,Niall Murphy et al.]",61.99,
+Building Machine Learning Powered Applications: Going from Idea to Product,[Emmanuel Ameisen],36.74,4.4
+Machine Learning,[Peter Flach],53.99,4.2
+Exploring GPT-3: An unofficial first look at the general-purpose language processing API from OpenAI,"[Steve Tingiris,Bret Kinsella]",49.99,4.4
+Math for Programmers: 3D graphics machine learning and simulations with Python,[Paul Orland],40.84,4.5
+Hands-On Julia Programming: An Authoritative Guide to the Production-Ready Systems in Julia (English Edition),[Sambit Kumar Dash],29.95,3.3
+Data Mining: Practical Machine Learning Tools and Techniques (Morgan Kaufmann Series in Data Management Systems),,51.57,4.2
+Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk,[Abdullah Karasan],49.99,3.8
+System Design Interview â€“ An insiders guide,[Alex Xu],37.99,4.6
+Linear Algebra and Optimization for Machine Learning: A Textbook,[Charu C. Aggarwal],47.27,4.6
+Data Algorithms with Spark: Recipes and Design Patterns for Scaling Up using PySpark,[Mahmoud Parsian],45.56,5
+Graph Machine Learning: Take graph data to the next level applying machine learning techniques and algorithms,"[Claudio Stamile,Aldo Marzullo et al.]",46.99,4
+Machine Learning Pocket Reference: Working with Structured Data in Python,[Matt Harrison],20.99,4.6
+Distributed Machine Learning with Python: Accelerating model training and serving with distributed systems,[Guanhua Wang],46.99,4
+Machine Learning Engineering with Python: Manage the production life cycle of machine learning models using MLOps with practical examples,[Andrew P. McMahon],39.99,4.5
+Practical Robotics in C++: Build and Program Real Autonomous Robots Using Raspberry Pi (English Edition),[Lloyd Brombach],29.95,4.5
+Python Programming: 3 Books in 1: The Complete Beginnerâ€™s Guide to Learning the Most Popular Programming Language,[Dylan Penny],23.99,4.1
+Serverless Architectures on AWS Second Edition,"[Peter Sbarski,Yan Cui et al.]",34.99,4.3
+Automated Machine Learning with Microsoft Azure: Build highly accurate and scalable end-to-end AI solutions with Azure AutoML,[Dennis Michael Sawyers],46.99,4.6
+Machine Learning for Computer Scientists and Data Analysts: From an Applied Perspective,"[Setareh Rafatirad,Houman Homayoun et al.]",121,
+Interpretable AI: Building explainable machine learning systems,[Ajay Thampi],59.99,4.5
+Machine Learning with Dynamics 365 and Power Platform: The Ultimate Guide to Apply Predictive Analytics,"[Aurelien Clere,Vinnie Bansal et al.]",37.51,3.3
+Machine Learning with TensorFlow Second Edition,[Mattmann A. Chris],46.61,4.2
+Machine Learning: Architecture in the age of Artificial Intelligence,[Phil Bernstein],46.95,4.7
+Machine Learning: An Applied Mathematics Introduction,[Paul Wilmott],19.99,4.5
+Practical MLOps: Operationalizing Machine Learning Models,"[Noah Gift,Alfredo Deza]",45.18,3.9
+An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics),,72.02,4.6
+Python Machine Learning Example: Build intelligent systems using Python TensorFlow 2 PyTorch and scikit-learn 3rd Edition,[Yuxi (Hayden) Liu],34.99,4.5
+The Elements of Statistical Learning: Data Mining Inference and Prediction Second Edition (Springer Series in Statistics),,61.93,4.6
+PYTHON CRASH COURSE: A PRACTICAL BEGINNERS GUIDE TO LEARN PYTHON IN 7 DAYS OR LESS INTRODUCING YOU INTO THE WORLD OF DATA SCIENCE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING WITH HANDS-ON PROJECT,[ERICK THOMPSON],14.99,3.8
+Artificial Intelligence: A Textbook,[Charu C. Aggarwal],53.54,4.1
+Advanced Statistics for Health Research,"[Richard J. Butler,Matthew J. Butler et al.]",108,
+Patterns Predictions and Actions: Foundations of Machine Learning,"[Moritz Hardt,Benjamin Recht]",49.99,
+Python Feature Engineering Cookbook: Over 70 recipes for creating engineering and transforming features to build machine learning models,[Soledad Galli],39.99,4
+Machine Learning: Master Supervised and Unsupervised Learning Algorithms with Real Examples (English Edition),"[Dr Ruchi Doshi,Dr Kamal Kant Hiran et al.]",19.95,3.8
+Text as Data: A New Framework for Machine Learning and the Social Sciences,"[Justin Grimmer,Margaret E. Roberts et al.]",35.99,4.8
+Machine Learning from Weak Supervision: An Empirical Risk Minimization Approach (Adaptive Computation and Machine Learning series),"[Masashi Sugiyama,Han Bao et al.]",65,
+Introduction to Machine Learning fourth edition (Adaptive Computation and Machine Learning series),,57.99,4.7
+Quantum Computing for Programmers,[Robert Hundt],45.3,4.3
+Computer Programming for Beginners: Fundamentals of Programming Terms and Concepts,[Nathan Clark],18.99,4.4
+Practical Simulations for Machine Learning: Using Synthetic Data for AI,"[Paris Buttfield-Addison,Mars Buttfield-Addison et al.]",46.49,5
+Machine Learning: A First Course for Engineers and Scientists,"[Andreas Lindholm,Niklas WahlstrÃ¶m et al.]",69.99,5
+Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code,[Al Sweigart],30.22,4.7
+Fluent Python: Clear Concise and Effective Programming,[Luciano Ramalho],50.99,4.7
+Python Distilled (Developers Library),[David Beazley],46.82,4.6
+Python and Algorithmic Thinking for the Complete Beginner (2nd Edition): Learn to Think Like a Programmer,[Aristides S Bouras],48.98,4.5
+Python Basics: A Practical Introduction to Python 3,"[David Amos,Dan Bader et al.]",37.99,4.7
+Mathematical Logic through Python,[Gonczarowski Yannai A.],29.99,5
+Python Programming: An Introduction to Computer Science 3rd Ed.,[John Zelle],42.75,4.6
+Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries 4th Edition,"[Steven F. Lott,Dusty Phillips]",38.24,4.3
+Think Python: How to Think Like a Computer Scientist,,28.99,4.6
+Learn Python Programming: An in-depth introduction to the fundamentals of Python 3rd Edition,"[Fabrizio Romano,Heinrich Kruger]",37.11,4.2
+Mastering Financial Pattern Recognition: Finding and Back-Testing Candlestick Patterns with Python,[Sofien Kaabar],64.32,
+Robust Python: Write Clean and Maintainable Code,[Patrick Viafore],32.99,4.5
+Django 4 Example: Build powerful and reliable Python web applications from scratch 4th Edition,"[Antonio Mele,Bob Belderbos]",47.18,5
+Python GUI Programming with Tkinter: Design and build functional and user-friendly GUI applications 2nd Edition,[Alan D. Moore],39.99,4.4
+Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaws Hard Way Series),,31.99,4.4
+Python in a Nutshell: A Desktop Quick Reference,"[Alex Martelli,Anna Ravenscroft et al.]",79.99,
+Teach Yourself VISUALLY Python (Teach Yourself VISUALLY (Tech)),"[Ted Hart-Davis,Guy Hart-Davis]",30,
+Advanced Python Scripting for ArcGIS Pro,[Paul A. Zandbergen],40.99,4.4
+Infrastructure as Code Patterns and Practices: With examples in Python and Terraform,[Rosemary Wang],56.99,4.8
+Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series),,40.86,4.7
+Architecture Patterns with Python: Enabling Test-Driven Development Domain-Driven Design and Event-Driven Microservices,"[Harry Percival,Bob Gregory]",44.37,4.6
+Computational Cell Physiology: With Examples In Python,[Stephen M Baylor],39,5
+The Book of Dash: Build Dashboards with Python and Plotly,"[Adam Schroeder,Christian Mayer et al.]",34.99,
+Python for Programmers: with Big Data and Artificial Intelligence Case Studies,,37.41,4.4
+Mastering Python: Write powerful and efficient code using the full range of Pythons capabilities 2nd Edition,[Rick van Hattem],42.74,4.7
+Murachs Python Programming,"[Michael Urban,Joel Murach et al.]",34.3,4.5
+El lenguaje de programaciÃ³n Python de principio a fin (Spanish Edition),[Angel Pablo Hinojosa GutiÃ©rrez],18.83,5
+Building Versatile Mobile Apps with Python and REST: RESTful Web Services with Django and React,[Art Yudin],39.99,4
+Kalman Filter Made Easy: A Beginners Guide to the Kalman Filter and Extended Kalman Filter with Real Life Examples Supported Python Source Code,[William Franklin],29.99,3.5
+Scaling Python with Ray: Adventures in Cloud and Serverless Patterns,"[Holden Karau,Boris Lublinsky]",56.26,
+Data Visualization with Python and JavaScript: Scrape Clean Explore and Transform Your Data,[Kyran Dale],56.26,
+The Well-Grounded Python Developer,[Doug Farrell],49.99,
+Algorithmic Short Selling with Python: Refine your algorithmic trading edge consistently generate investment ideas and build a robust long/short product,"[Laurent Bernut,Michael Covel]",49.39,4.9
+Publishing Python Packages: Test share and automate your projects,[Dane Hillard],49.99,
+Create GUI Applications with Python & Qt6 (PyQt6 Edition): The hands-on guide to making apps with Python,,39,4
+Mastering Object-Oriented Python: Build powerful applications with reusable code using OOP design patterns and Python 3.7 2nd Edition,[Steven F. Lott],33.48,4.6
+Mastering Python for Networking and Security: Leverage the scripts and libraries of Python version 3.7 and beyond to overcome networking and security issues 2nd Edition,[JosÃ© Manuel Ortega],39.99,4.9
+Quantum Chemistry and Computing for the Curious: Illustrated with Python and QiskitÂ® code,"[Keeper L. Sharkey,Alain Chance et al.]",47.99,4.8
+Metaprogramming with Python: A programmers guide to writing reusable code to build smarter applications,[Sulekha AloorRavi],44.99,
+Building Python Web APIs with FastAPI: A fast-paced guide to building high-performance robust web APIs with very little boilerplate code,[Abdulazeez Abdulazeez Adeshina],39.99,4.4
+Dead Simple Python: Idiomatic Python for the Impatient Programmer,[Jason C McDonald],59.99,
+Python for Cybersecurity: Using Python for Cyber Offense and Defense,[Howard E. Poston III],18.74,4.6
+Cracking Codes with Python: An Introduction to Building and Breaking Ciphers,[Al Sweigart],19.37,4.7
+Web Scraping with Python: Collecting More Data from the Modern Web,[Ryan Mitchell],33.49,4.6
+Data Structures and Algorithms in Python,"[Roberto Tamassia,Michael H. Goldwasser et al.]",99.88,4.3
+Python Workout: 50 ten-minute exercises,[Reuven M. Lerner],56.99,4.9
+Real-World Python: A Hackers Guide to Solving Problems with Code,[Lee Vaughan],24.49,4.7
+Full-Color Illustration Data Structrues & Algorithms Python: Easy and Interesting to Learn Through Full-Color Diagrams (Python Foundation & Design Patterns & Data Structures & Algorithms),[yang hu],49.99,
+Python Programming and Visualization for Scientists,"[Alex Decaria,Grant W Petty et al.]",44.43,5
+Easy Learning Python 3: Python for Beginners Guide (Easy Learning Python and design patterns and data structures and algorithms),[yang hu],18.53,3.9
+Learn More Python 3 the Hard Way: The Next Step for New Python Programmers (Zed Shaws Hard Way Series),,37.99,4.6
+Scientific Computing with Python: High-performance scientific computing with NumPy SciPy and pandas 2nd Edition,"[Claus FÃ¼hrer,Jan Erik Solem et al.]",39.99,4.6
+Mastering Python for Bioinformatics: How to Write Flexible Documented Tested Python Code for Research Computing,[Ken Youens-Clark],61.18,5
+Head First Python: A Brain-Friendly Guide,[Paul Barry],50.62,4.6
+Learning Python with Raspberry Pi,"[Alex Bradbury,Ben Everard]",17.39,4.2
+Data Visualization in Python,[Daniel Nelson],37.99,3.3
+Intuitive Python: Productive Development for Projects that Last,[David Muller],17.59,5
+Python for Microcontrollers: Getting Started with MicroPython,[Donald Norris],16.63,4.2
+Python Testing with pytest: Simple Rapid Effective and Scalable,[Brian Okken],37.06,4.5
+Python Cookbook Third Edition,,50.68,4.6
+Python in easy steps,,10.66,4.6
+Python Programming: The Ultimate Beginners Guide to Learn Python Programming Step--Step (Computer Programming),,25.99,4.5
+Advanced Python Programming: Accelerate your Python programs using proven techniques and design patterns 2nd Edition,[Quan Nguyen],49.99,4.3
+High Performance Python: Practical Performant Programming for Humans,"[Micha Gorelick,Ian Ozsvald]",28.49,4.7
+Doing Math with Python: Use Programming to Explore Algebra Statistics Calculus and More!,[Amit Saha],28.02,4.5
+Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python,[Robert Loredo],41.99,4.5
+Interpretable Machine Learning with Python: Build explainable fair and robust high-performance models with hands-on real-world examples 2nd Edition,[Serg MasÃ­s],49.99,
+Programming with MicroPython: Embedded Programming with Microcontrollers and Python,[Nicholas H. Tollervey],39.49,4.1
+Using Python for Principles of Econometrics,[Constantin Colonescu],29.4,5
+Network Programming in Python: The Basic: A Detailed Guide to Python 3 Network Programming and Management (English Edition),[John Galbraith],24.95,
+Classic Computer Science Problems in Python,[David Kopec],29.99,4.4
+Hyperparameter Tuning with Python: Boost your machine learning models performance via hyperparameter tuning,[Louis Owen],44.99,5
+Ethical Hacking: A Hands-on Introduction to Breaking In,[Daniel G. Graham],32.99,4.8
+Python Flash Cards: Syntax Concepts and Examples,[Eric Matthes],24.48,4.7
+The Pythonic Way: An Architectâ€™s Guide to Conventions and Best Practices for the Design Development Testing and Management of Enterprise Python Code (English Edition),[Sonal Raj],29.95,5
+Flask Web Development: Developing Web Applications with Python,[Miguel Grinberg],36.49,4.5
+Python Scripting for ArcGIS Pro,[Paul A. Zandbergen],50.99,4.5
+Artificial Intelligence in Finance: A Python-Based Guide,[Yves Hilpisch],45.5,4.3
+Algorithms Python (2 Edition): Easy to learn algorithms through full-color diagrams. (Easy Learning Python and design patterns and data structures and algorithms),[yang hu],49.99,
+Algorithmic Trading with Python: Quantitative Methods and Strategy Development,[Chris Conlan],28.49,4.2
+Quantitative Finance with Python: A Practical Guide to Investment Management Trading and Financial Engineering (Chapman and Hall/CRC Financial Mathematics Series),[Chris Kelliher],96,
+Violent Python: A Cookbook for Hackers Forensic Analysts Penetration Testers and Security Engineers,"[""TJ OConnor""]",46.56,4.5
+Programming ArcGIS Pro with Python (2nd Edition),[Eric Pimpler],44,5
+Foundations of Statistics for Data Scientists: With R and Python (Chapman & Hall/CRC Texts in Statistical Science),,98.36,5
+Interactive Data Visualization with Python: Present your data as an effective and compelling story 2nd Edition,"[Abha Belorkar,Sharath Chandra Guntuku et al.]",44.99,4.3
+PYTHON PROGRAMMING: 3 BOOKS IN 1: The Complete guide to Learn Everything you Need to Know about Python,[Clive Campbell],29.99,4.4
+A Smarter Way to Learn Python: Learn it faster. Remember it longer.,[Mark Myers],19.95,4.6
+Fundamentals of Python: First Programs,[Kenneth A. Lambert],69.07,4.4
+IoT and Edge Computing for Architects: Implementing edge and IoT systems from sensors to clouds with communication systems analytics and security 2nd Edition,[Perry Lea],44.99,4.5
+Digital Forensics and Incident Response: Incident response techniques and procedures to respond to modern cyber threats 2nd Edition,[Gerard Johansen],39.99,4.6
+Learn JavaScript Quickly: A Complete Beginnerâ€™s Guide to Learning JavaScript Even If Youâ€™re New to Programming (Crash Course With Hands-On Project),[Code Quickly],16.89,4.5
+Genetic Algorithms with Python,[Clinton Sheppard],19.97,4.4
+Python 3 Standard Library Example The (Developers Library),,51.29,4.5
+Python in 24 Hours Sams Teach Yourself,,30.46,4.2
+Introduction to Computation and Programming Using Python third edition: With Application to Computational Modeling and Understanding Data,[John V. Guttag],52.25,4.6
+Python: All That Jumping,[John Yoon Ph.D.],37.95,
+Learn Python Quickly: A Complete Beginnerâ€™s Guide to Learning Python Even If Youâ€™re New to Programming (Crash Course With Hands-On Project),,17.27,4.4
+Mastering GUI Programming with Python: Develop impressive cross-platform GUI applications with PyQt,[Alan D. Moore],39.99,4.3
+Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION,"[Bradley N. Miller,David L. Ranum]",42.75,4.6
+Clean Code in Python: Develop maintainable and efficient code 2nd Edition,[Mariano Anaya],44.64,4.6
+Continuous Delivery with Docker and Jenkins: Create secure applications building complete CI/CD pipelines 2nd Edition,[Rafal Leszko],46.99,4.4
+Python for SAS Users: A SAS-Oriented Introduction to Python,"[Randy Betancourt,Sarah Chen]",37.99,4.4
+Fundamentals of Python: Data Structures (MindTap Course List),[Kenneth Lambert],71.99,4.2
+Microsoft Power BI Cookbook: Gain expertise in Power BI with over 90 hands-on recipes tips and use cases 2nd Edition,"[Greg Deckler,Brett Powell]",49.39,4.7
+Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner,[Bradford Tuckfield],24.99,4.5
+Learn to Code Solving Problems: A Python Programming Primer,[Daniel Zingaro],23.06,4.7
+Hands-On Data Preprocessing in Python: Learn how to effectively prepare data for successful data analytics,[Roy Jafari],49.99,5
+Practical Python Programming for IoT: Build advanced IoT projects using a Raspberry Pi 4 MQTT RESTful APIs WebSockets and Python 3,[Gary Smart],39.99,4.4
+Hands-On Explainable AI (XAI) with Python: Interpret visualize explain and integrate reliable AI for fair secure and trustworthy AI apps,[Denis Rothman],49.99,3.8
+Python for Data Analysis: A Beginners Guide to Master the Fundamentals of Data Science and Data Analysis Using Pandas Numpy and Ipython (Programming Languages for Beginners),,17.97,4.3
+Python Interview Questions: Brush up for your next Python interview with 240+ solutions on most common challenging interview questions (English Edition),[Swati Saxena],29.95,3.1
+Python: 2 Manuscripts in 1 book: -Python For Beginners -Python 3 Guide,[Timothy C. Needham],24.95,4.1
+Practical Discrete Mathematics: Discover math principles that fuel algorithms for computer science and machine learning with Python,,56.69,4.3
+Python Automation Cookbook: 75 Python automation ideas for web scraping data wrangling and processing Excel reports emails and more 2nd Edition,[Jaime Buelta],39.99,4.4
+DATA STRUCTURE AND ALGORITHMS: BUILD IN PYTHON,"[Dr. RACHANA KAMBLE,AYUSHI GODIYA et al.]",8.66,
+Python One-Liners: Write Concise Eloquent Python Like a Professional,[Christian Mayer],35.81,4.8
+Expert Python Programming: Master Python learning the best coding practices and advanced programming concepts 4th Edition,"[Michal Jaworski,Tarek Ziade]",39.94,4.5
+Simulation with Python: Develop Simulation and Modeling in Natural Sciences Engineering and Social Sciences,"[Rongpeng Li,Aiichiro Nakano]",39.99,
+Web Development with Django: Learn to build modern web applications with a Python-based framework,"[Ben Shaw,Saurabh Badhwar et al.]",41.99,4.5
+Python for Algorithmic Trading: From Idea to Cloud Deployment,[Yves Hilpisch],44.49,4.3
+Clean Code: A Handbook of Agile Software Craftsmanship,,47.49,4.7
+Serious Python: Black-Belt Advice on Deployment Scalability Testing and More,[Julien Danjou],29.24,4.7
+Python Natural Language Processing Cookbook: Over 50 recipes to understand analyze and generate text for implementing language processing tasks,[Zhenya AntiÄ‡],37.99,4.2
+Python Crash Course 3rd Edition,[Eric Matthes],40.49,
+The Recursive Book of Recursion: Ace the Coding Interview with Python and JavaScript,[Al Sweigart],36.94,5
+Bayesian Analysis with Python: Introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ 2nd Edition,[Osvaldo Martin],44.99,4.1
+Python: For Beginners: A Crash Course Guide To Learn Python in 1 Week,[Timothy C. Needham],17.97,4.3
+Murachs Python Programming (2nd Edition),"[Joel Murach,Michael Urban]",56.53,4.6
+Mastering Reinforcement Learning with Python: Build next-generation self-learning models using reinforcement learning techniques and best practices,[Enes Bilgin],46.99,4.4
+Introduction to Radar With Python and Matlab,[Lee Andrew Harrison],154.23,4.1
+Python Pocket Reference: Python In Your Pocket (Pocket Reference (OReilly)),,13.79,4.5
+Python for DevOps: Learn Ruthlessly Effective Automation,"[Noah Gift,Kennedy Behrman et al.]",35.99,4.5
+The Python Bible 7 in 1: Volumes One To Seven (Beginner Intermediate Data Science Machine Learning Finance Neural Networks Computer Vision),[Florian Dedov],37.99,4.5
+Mastering Python Networking: Your one-stop solution to using Python for network automation programmability and DevOps 3rd Edition,"[Eric Chou,Michael Kennedy et al.]",55.09,4.6
+Automate the Boring Stuff with Python 2nd Edition: Practical Programming for Total Beginners,[Al Sweigart],26.49,4.7
+Introducing Python: Modern Computing in Simple Packages,[Bill Lubanovic],24.49,4.7
+Statistics for People Who (Think They) Hate Statistics,,31.99,4.5
+Statistics For Dummies (For Dummies (Lifestyle)),,11.99,4.3
+Statistics for Absolute Beginners (Second Edition) (Data Science Python & Statistics for Beginners),[Oliver Theobald],14.88,4.4
+Introduction to Probability Statistics and Random Processes,[Hossein Pishro-Nik],36.58,4.6
+Princeton Review AP Statistics Prep 2022: 4 Practice Tests + Complete Content Review + Strategies & Techniques (2022) (College Test Preparation),[The Princeton Review],18.99,4.6
+5 Steps to a 5: AP Statistics 2023,"[Jared Derksen,DeAnna Krause McDonald]",18,
+The Foundations of Statistics,[Leonard J. Savage],11.89,4.5
+Princeton Review AP Statistics Prep 2023: 5 Practice Tests + Complete Content Review + Strategies & Techniques (College Test Preparation),[The Princeton Review],18.99,4.6
+Mathematical Statistics with Applications,"[Dennis Wackerly,William Mendenhall et al.]",95.66,4.2
+Statistics in Plain English,[Timothy C. Urdan],39.16,4.7
+Statistics Workbook For Dummies with Online Practice,[Deborah J. Rumsey],18.99,4.3
+UPDATED Version of The Practice of Statistics,"[Daren S. Starnes,Josh Tabor]",179.95,4.4
+Data Mining for Business Analytics: Concepts Techniques and Applications in R,"[Galit Shmueli,Peter C. Bruce et al.]",105.45,4.4
+Probability and Statistics for Economists,[Bruce Hansen],60,
+Painless Statistics (Barrons Painless),[Patrick Honner],14.99,5
+Discovering Statistics Using IBM SPSS Statistics: North American Edition,[Andy Field],64.7,4.4
+AP Statistics Flashcards Fourth Edition: Up-to-Date Practice + Sorting Ring for Custom Study (Barrons Test Prep),[Martin Sternstein Ph.D.],29.99,
+Outline of Basic Statistics: Dictionary and Formulas (Dover Books on Mathematics),"[John E. Freund,Frank J. Williams]",11.95,4.2
+Essentials of Statistics,[Mario Triola],170.15,4.5
+Statistics for People Who (Think They) Hate Statistics: Using Microsoft Excel,"[Neil J. Salkind,Bruce B. Frey]",84.85,4.4
+Statistics for the Behavioral Sciences - Standalone Book,"[Frederick J Gravetter,Larry B. Wallnau]",94.46,4.5
+Statistics for Business and Economics,"[James McClave,P. George Benson et al.]",223.99,4.3
+The Little SASÂ® Book: A Primer Sixth Edition,"[Lora D. Delwiche,Susan J. Slaughter]",54.1,4.6
+Applied Statistics II: Multivariable and Multivariate Techniques,[Rebecca M. Warner],95.92,4.3
+A Gentle Introduction to Stata,[Alan C. Acock],69.56,4.6
+Clinical Biostatistics and Epidemiology Made Ridiculously Simple: An Incredibly Easy Way to Learn for Medical Nursing PA Students And Other Healthcare Professionals (MedMaster Medical Books),"[Ann Weaver Ph.D.,Stephen Goldberg M.D.]",21.8,4.5
+CRC Standard Probability and Statistics Tables and Formulae,"[Daniel Zwillinger,Stephen Kokoska]",188.73,4.9
+Fundamentals of Programming in SAS: A Case Studies Approach,"[James Blum,Jonathan Duggins]",109.95,4.4
+Statistics Done Wrong: The Woefully Complete Guide,[Alex Reinhart],19.99,4.5
+Learning SAS Example: A Programmers Guide Second Edition,[Ron Cody],81.53,4.6
+Statistics II For Dummies,[Deborah J. Rumsey],16.66,4.4
+Stats: Modeling the World,"[David Bock,Paul Velleman et al.]",197.32,4.1
+First Course in Probability A,[Sheldon Ross],215.32,4.2
+ISE STATISTICS FOR ENGINEERS AND SCIENTISTS (ISE HED IRWIN INDUSTRIAL ENGINEERING),[William Navidi Prof.],37.17,4.2
+Introduction to Probability (Cambridge Mathematical Textbooks),,70.99,4.3
+Causal Inference: The Mixtape,[Scott Cunningham],31.99,4.6
+Introduction to Mathematical Statistics and Its Applications An,"[Richard Larsen,Morris Marx]",159.99,4.4
+APÂ® Statistics Crash Course Book + Online: Get a Higher Score in Less Time (Advanced Placement (AP) Crash Course),,14.16,4.8
+Introduction to the Practice of Statistics,"[David S. Moore,George P. McCabe et al.]",240.34,3.6
+Data Mining for Business Analytics: Concepts Techniques and Applications with XLMiner,"[Peter C. Bruce,Galit Shmueli et al.]",110.83,4
+Study Guide to Accompany Salkind and Freyâ€²s Statistics for People Who (Think They) Hate Statistics,,30,4.3
+Elementary Statistics: A Step Step Approach,[Allan Bluman],129,4.5
+Practice Makes Perfect Statistics (Practice Makes Perfect (McGraw-Hill)),,14.06,4.6
+Mathletics: How Gamblers Managers and Fans Use Mathematics in Sports Second Edition,"[Wayne L. Winston,Scott Nestler et al.]",18.99,4.8
+Schaums Outline of Statistics Sixth Edition (Schaums Outlines),,25.48,4.2
+Biostatistics for the Biological and Health Sciences,"[Marc Triola,Mario Triola et al.]",179.14,4.5
+An Introduction to Formal Languages and Automata,[Peter Linz],62.85,4.4
+Doing Quantitative Research in the Social Sciences: An Integrated Approach to Research Design Measurement and Statistics,[Thomas R. Black],55.54,4.4
+Basic Business Statistics: Concepts and Applications (Whats New in Business Statistics),,100.99,4.4
+Essentials of Statistics for the Behavioral Sciences (MindTap Course List),"[Frederick J Gravetter,Larry B. Wallnau et al.]",85.79,4.4
+Statistics for Business and Economics Global Edition,"[Paul Newbold,William Carlson et al.]",74.96,4.6
+Statistics Translated: A Step--Step Guide to Analyzing and Interpreting Data,[Steven R. Terrell],55,4.8
+Statistics for the Behavioral Sciences,[Gregory J. Privitera],138.99,4.4
+Modern Mathematical Statistics with Applications (Springer Texts in Statistics),"[Jay L. Devore,Kenneth N. Berk et al.]",121.11,4
+Practical Statistics For Educators,[Ruth Ravid],50,4.6
+Statistics Made Simple for School Leaders: A New Approach for Using Student Staff and Community Data 3rd Edition,"[Susan Rovezzi Carroll,David J. Carroll]",35,5
+Using SPSS for Windows and Macintosh (7th Edition),"[Samuel B. Green,Neil J. Salkind]",279.95,4.4
+An Adventure in Statistics: The Reality Enigma,[Andy Field],52,4.7
+How to Work With Probability and Statistics Grades 6-8 (Math How To...),[Robert W. Smith],8.99,3.2
+Essential Statistics for the Behavioral Sciences,[Gregory J. Privitera],100,4.4
+Asymptotic Statistics (Cambridge Series in Statistical and Probabilistic Mathematics Series Number 3),,67.99,4.6
+Loose Leaf for Business Statistics in Practice,"[Bruce Bowerman,Anne M. Drougas et al.]",103.48,4.5
+Survey Methodology,"[Robert M. Groves,Floyd J. Fowler Jr. et al.]",52.99,4.3
+Statistics for Healthcare Professionals: An Introduction,"[Ian Scott,Deborah Mazhindu]",35.2,4.4
+Essentials of Social Statistics for a Diverse Society,"[Anna Y. Leon-Guerrero,Chava Frankfort-Nachmias et al.]",104.5,4.5
+Natural Language Processing in Action: Understanding analyzing and generating text with Python,"[Hobson Lane,Hannes Hapke et al.]",40.49,4.3
+Stats: Data and Models,"[David Bock,Paul Velleman et al.]",189.99,4.3
+The Statistical Sleuth: A Course in Methods of Data Analysis,"[Fred Ramsey,Daniel Schafer]",75.31,4
+Intro Stats,"[Richard De Veaux,Paul Velleman et al.]",181.35,4.1
+The Humongous Book of Statistics Problems (Humongous Books),"[W. Michael Kelley,Robert A. Donnelly]",17.69,4.4
+The Practice of Statistics,"[Daren S. Starnes,Dan Yates et al.]",99.99,4.6
+Introductory Statistics: Exploring the World Through Data,"[Robert Gould,Colleen Ryan]",197.32,4.4
+Statistics for Nursing: A Practical Approach: A Practical Approach,[Elizabeth Heavey],75.24,4.4
+Barrons AP Statistics 9th Edition,[Martin Sternstein Ph.D.],37.68,4.6
+Making Sense of Medical Statistics,[Munier Hossain],25.99,4.5
+Statistics and Data Visualization Using R: The Art and Practice of Data Analysis,[David S. Brown],114.6,3
+Research Methods Statistics and Applications,"[Kathrynn A. Adams,Eva K. Lawrence]",95.08,4.5
+Statistics: Informed Decisions Using Data (5th Edition)-Stand alone,[Michael Sullivan III],143.71,4.3
+A Guide to R for Social and Behavioral Science Statistics,"[Brian Joseph Gillespie,Kathleen Charli Hibbert et al.]",45,4.6
+Statistics for the Life Sciences,"[Myra Samuels,Jeffrey Witmer et al.]",191.99,4.3
+Second Course in Statistics A: Regression Analysis,"[William Mendenhall,Terry Sincich]",170.66,4.6
+Statistics: Unlocking the Power of Data,"[Patti Frazer Lock,Kari Lock Morgan et al.]",118.7,3.7
+Essential Calculus Skills Practice Workbook with Full Solutions,[Chris McMullen],9.99,4.6
+Mark Twain - Statistics & Probability Grades 5 - 12,[Myrl Shireman],11.99,4.3
+Probability & Statistics for Engineers & Scientists,"[Ronald Walpole,Raymond Myers et al.]",191.99,4.3
+Statistics and Probability with Applications (High School),"[Daren S. Starnes,Josh Tabor et al.]",158.99,3
+Understandable Statistics: Concepts and Methods,"[Charles Henry Brase,Corrinne Pellillo Brase]",82.63,4.5
+Learn Calculus Quickly: The Complete Guide To Easily Master Calculus in 100 Solved Equations!,[Math Wizo],9.99,4.3
+Statistics,"[James McClave,Terry Sincich]",253.32,4.3
+Statistics Companion Workbook,[Adam H Littig],50,4.2
+John E. Freunds Mathematical Statistics with Applications (Classic Version) (Pearson Modern Classics for Advanced Statistics Series),"[Irwin Miller,Marylees Miller]",106.65,4
+Statistics for Business: Decision Making and Analysis,"[Robert Stine,Dean Foster]",223.98,4.5
+Statistics in a Nutshell: A Desktop Quick Reference,,25.99,4.7
+Introductory Statistics with Randomization and Simulation,"[David M Diez,Christopher D Barr et al.]",10,4.4
+Essentials of Precalculus with Calculus Previews (Jones & Bartlett Learning Series in Mathematics),"[Dennis G. Zill,Jacqueline M. Dewar]",94.95,4.4
+Real Stats: Using Econometrics for Political Science and Public Policy,[Michael A. Bailey],111.59,4.8
+Nonlinear Contingency Analysis,"[T. V. Joe Layng,Paul Thomas Andronis et al.]",31.96,4.9
+Ultimate AP Statistics Practice Book: 100 Essential Problems Completely Explained on YouTube,[Kendall Roberg],14.7,4.6
+Schaums Outline of Probability and Statistics 4th Edition: 897 Solved Problems + 20 Videos (Schaums Outlines),"[John Schiller,R. Alu Srinivasan et al.]",22.8,4.4
+Tutor in a Books Statistics: Volume 2,[Dr. James R. Ph.D.],36,
+Problems And Solutions On Thermodynamics And Statistical Mechanics (second Edition) (Major American Universities Ph.d. Qualifying Questions And Solutions - Physics),"[Swee Cheng Lim,Choy Heng Lai et al.]",118,
+SPSS Statistics For Dummies,"[Jesus Salcedo,Keith McCormick]",22.99,4.4
+Statistics Made Simple for School Leaders: Data-Driven Decision Making (Scarecrow Education Book),[David J. Carroll],42,4.1
+Elementary Statistics,[Mario Triola],171.47,4.4
+Probability and Statistical Inference,"[Robert Hogg,Elliot Tanis et al.]",181.32,4.9
+Statistical Methods for the Social Sciences,[Alan Agresti],186.66,4.3
+Causal Inference in Statistics - A Primer,"[Judea Pearl,Madelyn Glymour et al.]",33.24,4.5
+5 Steps to a 5: AP Statistics 2022,"[Jared Derksen,DeAnna Krause McDonald]",18,4.7
+R for Data Science: Import Tidy Transform Visualize and Model Data,"[Garrett Grolemund,Hadley Wickham]",44.99,4.7
+Even You Can Learn Statistics and Analytics: An Easy to Understand Guide (Pearson Business Analytics Series),"[David M Levine,David F Stephan]",33.94,5
+Introduction to Probability and Statistics for Engineers and Scientists,[Sheldon M. Ross],112.47,3.3
+5 Steps to a 5: AP Statistics 2023 Elite Student Edition,"[Jared Derksen,DeAnna Krause McDonald]",28,
+The Book of R: A First Course in Programming and Statistics,[Tilman M. Davies],28.33,4.6
+Basic Business Statistics: A Casebook (Textbooks in Matheamtical Sciences),"[Dean P. Foster,Robert A. Stine et al.]",59.23,4.3
+Elementary Statistics: Picturing the World,"[Ron Larson,Betsy Farber]",129.99,4.5
+Making Sense of Statistics: A Conceptual Overview,"[Fred Pyrczak,Deborah M. Oh]",47.76,4.6
+Psychology Statistics For Dummies,"[Donncha Hanna,Martin Dempster]",15.55,4.5
